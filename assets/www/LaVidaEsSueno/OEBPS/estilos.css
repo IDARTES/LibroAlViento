@@ -1,0 +1,134 @@
+.cover { vertical-align: middle;
+	text-align: center;
+	height: 100%;
+	margin:0;
+	padding: 0;
+}
+
+.fotoH { 
+	text-align: center;
+	width: 50%;
+	max-width:380px;
+	margin:0;
+	padding: 0;
+	text-indent: 0em;
+	
+}
+
+.fotoV { 
+	text-align: center;
+	width: 30%;
+	height:auto;
+	max-width:280px;
+	margin:0;
+	padding: 0;
+	text-indent: 0em;
+	
+}
+
+.fotoCen { text-align:center; text-indent: 0em; margin:0;}
+
+
+body { margin-left: 5%; margin-right: 5%; margin-top: 5%; margin-bottom: 5%; }
+
+h1 {
+	font-size: 1.7em;
+	margin-top: 1em;
+	margin-bottom: 1.7em;
+	font-weight:normal;
+	line-height: 105%;
+	text-align:center;
+}
+
+h2 {
+	font-size: 1.3em;
+	margin-top: 0em;
+	margin-bottom: .5em;
+	margin-left:0;
+	color: #666;
+	font-weight: normal;
+	font-style: normal;
+	text-align:left;
+	text-indent:0;
+	font-variant:small-caps;
+	
+}
+
+h3 {
+	font-size: 1em;
+	font-weight: bold;
+	font-style: normal;
+	text-align:left;
+	margin-top:2em;
+	margin-bottom:0.6em;
+	margin-left:6em;
+	text-indent:0;
+	font-variant:small-caps;
+}
+
+p { font-size: 1em; 
+	margin-top: 0; 
+	margin-right:0; 
+	margin-bottom: .5em; 
+	margin-left: 0; 
+	text-align:justify; 
+	text-indent: 1em; }
+	
+.primerParrafo {
+	text-indent: 0em;
+	
+}
+.personaje { font-size: 0.8em;
+	line-height:0.8em; 
+	margin-top: 0.6em; 
+	margin-right:0; 
+	margin-bottom:0em; 
+	margin-left: 0em; 
+	text-align:justify;
+	font-variant:small-caps;
+	text-indent: 0;
+	}
+.dialogo { 
+	font-size: 1em; 
+	margin-top: 0; 
+	margin-right:0; 
+	margin-bottom: 0em; 
+	margin-left: 6em; 
+	text-align:left; 
+	text-indent: 0;
+}
+.dialogoInd { font-size: 1em; 
+	margin-top: 0; 
+	margin-right:0; 
+	margin-bottom: 0em; 
+	margin-left: 8em; 
+	text-align:left; 
+	text-indent: 0;
+}
+.entradilla { 
+	font-size: 1em; 
+	margin-top: 0; 
+	margin-right:0; 
+	margin-bottom: 1em; 
+	margin-left: 6em; 
+	text-align:left; 
+	text-indent: 0;
+}
+.breakBefore { page-break-before:always; }
+a { text-decoration: none; }
+
+.der { text-align:right;text-indent: 0em; }
+.cen { text-align:center; text-indent: 0em;}
+.autor { text-align:right; font-size:75%; margin-top:0; text-indent: 0em; margin-top:1.7em;}
+.piefoto { text-align:center; font-size:70%; margin-top:1em; margin-left:4em; margin-right:4em; text-indent: 0em;}
+.texConte {font-size:1em; text-align:left; margin-bottom:0.4em; margin-top:0; text-indent:0; margin-left:0; font-variant:small-caps; }
+.texConte2 { text-align:left; margin-left: 1em; margin-bottom:0.3em; margin-top:0 ; text-indent: 0em; }
+.texConte3 { text-align:left; margin-left: 2em; margin-bottom:0.3em; margin-top:0 ; text-indent: 0em; }
+.texVocab { text-align:left; font-size:80%; margin-bottom:3pt; margin-top:0;text-indent: 0em; }
+.asterisco{ text-align: center; color: #900; text-indent: 0em; }
+.espacio { margin-bottom:3em; text-indent: 0em; }
+.bioAutor { text-align:left; font-size:0.9em; margin-top:0; margin-left:2em; margin-right:4em; margin-bottom:0em; text-indent: 0em; }
+.epigrafe { text-align:right; font-size:0.9em; margin-top:0; text-indent: 0em; }
+.texlegal { text-align:left; font-size:65%; line-height:120%;margin-bottom:0em; text-indent: 0em; font-variant:small-caps;}
+.texlegal2 { text-align:left; font-size:65%; line-height:120%;margin-bottom:0.1em; margin-left:2em; text-indent: 0em; }
+.smallCaps{ font-variant:small-caps; }

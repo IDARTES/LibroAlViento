@@ -1,0 +1,20 @@
+
+function getNews () {
+    $.ajax({
+      type:"get",
+      dataType:"json",
+      //url: "http://www.idartes.gov.co/index.php/literatura-multimedia/281-ebooks/coleccion-libro-al-viento?format=feed&type=rss",
+      url: "http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20feed%20where%20url%20%3D%20%22http%3A%2F%2Fidartes.gov.co%2Findex.php%2Fliteratura-multimedia%2F281-ebooks%2Fcoleccion-libro-al-viento%3Fformat%3Dfeed%26type%3Drss%22&format=json&diagnostics=true&callback=cbfunc"
+      success: function(json) {
+        console.log(json);
+      } 
+    })
+}
+
+$(document).ready(function(){
+    $("#ver-coleccion").on("click", function (event){
+        event.preventDefault();
+        getNews();
+    })
+});
+

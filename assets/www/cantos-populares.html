@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cantos Populares</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script src="js/monocore.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/monocore.css" />
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+
+        #reader {
+            min-height: 100%;
+        }
+    </style>
+    
+    <script type="text/javascript">
+        var bookData = {
+            getComponents: function () {
+                return [
+                    'CantosPopulares/OEBPS/cover.html',
+                    'CantosPopulares/OEBPS/portada.html',
+                    'CantosPopulares/OEBPS/portadilla.html',
+                    'CantosPopulares/OEBPS/portada2.html',
+                    'CantosPopulares/OEBPS/contenido.html',
+                    'CantosPopulares/OEBPS/presentacion.html',
+                    'CantosPopulares/OEBPS/cap01.html',
+                    'CantosPopulares/OEBPS/cap02.html',
+                    'CantosPopulares/OEBPS/cap03.html',
+                    'CantosPopulares/OEBPS/cap04.html',
+                    'CantosPopulares/OEBPS/cap05.html',
+                    'CantosPopulares/OEBPS/cap06.html',
+                    'CantosPopulares/OEBPS/cap07.html',
+                    'CantosPopulares/OEBPS/cap08.html',
+                    'CantosPopulares/OEBPS/cap09.html',
+                    'CantosPopulares/OEBPS/cap10.html',
+                    'CantosPopulares/OEBPS/cap11.html',
+                    'CantosPopulares/OEBPS/cap12.html',
+                    'CantosPopulares/OEBPS/cap13.html',
+                    'CantosPopulares/OEBPS/cap14.html',
+                    'CantosPopulares/OEBPS/cap15.html',
+                    'CantosPopulares/OEBPS/cap16.html',
+                    'CantosPopulares/OEBPS/cap17.html',
+                    'CantosPopulares/OEBPS/cap18.html',
+                    'CantosPopulares/OEBPS/cap19.html',
+                    'CantosPopulares/OEBPS/cap20.html',
+                    'CantosPopulares/OEBPS/texlegal.html'
+                    
+                    ];
+            },
+            getContents: function () {
+                return [
+                    {title: "Cover", src:"CantosPopulares/OEBPS/cover.html"},    
+                    {title: "Portada", src:"CantosPopulares/OEBPS/portada.html"},    
+                    {title: "Portada", src:"CantosPopulares/OEBPS/portadilla.html"},    
+                    {title: "Portada2", src:"CantosPopulares/OEBPS/portada2.html"},    
+                    {title: "Contenido", src:"CantosPopulares/OEBPS/contenido.html"},    
+                    {title: "Presentación", src:"CantosPopulares/OEBPS/presentacion.html"},    
+                    {title: "Capítulo 1", src:"CantosPopulares/OEBPS/cap01.html"},    
+                    {title: "Capítulo 2", src:"CantosPopulares/OEBPS/cap02.html"},    
+                    {title: "Capítulo 3", src:"CantosPopulares/OEBPS/cap03.html"},    
+                    {title: "Capítulo 4", src:"CantosPopulares/OEBPS/cap04.html"},    
+                    {title: "Capítulo 5", src:"CantosPopulares/OEBPS/cap05.html"},    
+                    {title: "Capitulo 6", src:"CantosPopulares/OEBPS/cap06.html"},    
+                    {title: "Capítulo 7", src:"CantosPopulares/OEBPS/cap07.html"},    
+                    {title: "Capítulo 8", src:"CantosPopulares/OEBPS/cap08.html"},    
+                    {title: "Capítulo 9", src:"CantosPopulares/OEBPS/cap09.html"},    
+                    {title: "Capítulo 10", src:"CantosPopulares/OEBPS/cap10.html"},    
+                    {title: "Capítulo 11", src:"CantosPopulares/OEBPS/cap11.html"},    
+                    {title: "Capítulo 12", src:"CantosPopulares/OEBPS/cap12.html"},    
+                    {title: "Capítulo 13", src:"CantosPopulares/OEBPS/cap13.html"},    
+                    {title: "Capítulo 14", src:"CantosPopulares/OEBPS/cap14.html"},    
+                    {title: "Capitulo 15", src:"CantosPopulares/OEBPS/cap15.html"},    
+                    {title: "Capítulo 16", src:"CantosPopulares/OEBPS/cap16.html"},    
+                    {title: "Capítulo 17", src:"CantosPopulares/OEBPS/cap17.html"},    
+                    {title: "Capítulo 18", src:"CantosPopulares/OEBPS/cap18.html"},    
+                    {title: "Capítulo 19", src:"CantosPopulares/OEBPS/cap19.html"},    
+                    {title: "Capítulo 20", src:"CantosPopulares/OEBPS/cap20.html"},    
+                    {title: "Texto Legal", src:"CantosPopulares/OEBPS/texlegal.html"}    
+                ]             
+            },
+            getComponent: function (componentId) {
+                return {url:componentId}              
+            },
+            getMetaData: function(key) {
+                return {
+                    title: "Cantos Populares",
+                    creator: "Libro Al Viento",
+                }[key];             
+            }
+        };
+
+
+    </script>
+</head>
+<body>
+    <div id="reader">
+        <h1>Colección Libro al Viento</h1>
+    </div>
+    <script>
+        Monocle.Events.listen(
+            window,
+            'load',
+            function () {
+                window.reader = Monocle.Reader('reader', bookData, {panels: Monocle.Panels.Marginal});
+            }
+        );
+    </script>
+    <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-40222050-1', 'idartes.gov.co');
+          ga('send', 'pageview');
+
+    </script>
+</body>
+</html>

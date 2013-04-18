@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>José Martí</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>9C7B4496602C5DE9E3AADCCA652D0FD7</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/imgs/cover.png</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>FE7A6E54D5C2BE6B6063B18168E33840</string>
+		<key>publisher-unique-id</key>
+		<string>9789588471051</string>
+		<key>unique-id</key>
+		<integer>6674832772353429695</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>La edad de oro, literatura latinoamericana, josé martí, literatura cubana, literatura infantil, libro al viento, secretaría de cultura bogotá</string>
+	<key>itemName</key>
+	<string>La edad de oro</string>
+	<key>playlistName</key>
+	<string>La edad de oro</string>
+	<key>releaseDate</key>
+	<string>2013-01-15</string>
+	<key>sort-artist</key>
+	<string>Martí, José</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

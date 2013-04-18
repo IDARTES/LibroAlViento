@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<dc:title>Algunos espectros orientales</dc:title>
+	<dc:creator opf:role="aut" opf:file-as="Hearn, Lafcadio">Lafcadio Hearn</dc:creator>
+	<dc:publisher>Instituto Distrital de las Artes – idartes</dc:publisher>
+	<dc:rights>Copyright Instituto Distrital de las Artes – idartes ©2012</dc:rights>
+	<dc:identifier id="BookId">9789589993583</dc:identifier>
+	<dc:language>es</dc:language>
+	
+	<dc:subject>lafcadio hearn, cuentos de fantasmas, literatura oriental, literatura universal, libro al viento, idartes, espectros orientales, yakumo koizumi</dc:subject>
+      <dc:description>Recordando sus primeras impresiones sobre el Japón, Lafcadio Hearn anotó en su cuaderno de apuntes: "El primer hechizo de Japón es tan intangible y volátil como un perfume". Seducido por el país al que llegó como corresponsal del Harper's Magazine de Nueva York, decidió quedarse allí hasta el final de sus días. Se tratará para él del hechizo y la misma ensoñación que ejercen los territorios poblados por las hadas y los espectros primordiales que ya no vuelven a soltar a quien encantan. En las historias que se reunen en este título de Libro al Viento, el lector podrá encontrar los espectros, divinidades y demás seres que pueblan los relatos tradicionales del Lejano Oriente, vistos a través de los ojos de este viajero maravillado.</dc:description>
+      <dc:date>2012-12-20</dc:date>
+	  <dc:contributor opf:role="aut" opf:file-as="Hearn, Lafcadio">Lafcadio Hearn</dc:contributor>
+	  <dc:contributor opf:role="aui" opf:file-as="Paredes, Julio">Julio Paredes</dc:contributor>
+	  <dc:contributor opf:role="trl" opf:file-as="Paredes, Julio">Julio Paredes</dc:contributor>
+	<meta name="cover" content="cover-image"/>
+</metadata>
+
+<manifest>
+	<item id="cover" href="cover.xml" media-type="application/xhtml+xml"/>
+	<item id="cover-image" href="imgs/cover.png" media-type="image/png"/>
+	<item id="portada" href="portada.xml" media-type="application/xhtml+xml"/>
+	<item id="portada2" href="portada2.xml" media-type="application/xhtml+xml"/>
+	<item id="portadilla" href="portadilla.xml" media-type="application/xhtml+xml"/>
+	<item id="fportada" href="imgs/portada.png" media-type="image/png"/>
+	<item id="fportada2" href="imgs/portada2.png" media-type="image/png"/>
+	<item id="fportadilla" href="imgs/portadilla.png" media-type="image/png"/>
+	<item id="style" href="estilos.css" media-type="text/css"/>
+	<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>	
+	<item id="texlegal" href="texlegal.html" media-type="application/xhtml+xml"/>
+	
+	<item id="contenido" href="contenido.html" media-type="application/xhtml+xml"/>
+	<item id="presentacion" href="presentacion.html" media-type="application/xhtml+xml"/>
+	<item id="cap01" href="cap01.html" media-type="application/xhtml+xml"/>
+	<item id="cap01a" href="cap01a.html" media-type="application/xhtml+xml"/>
+	<item id="cap02" href="cap02.html" media-type="application/xhtml+xml"/>
+	<item id="cap02a" href="cap02a.html" media-type="application/xhtml+xml"/>
+	<item id="cap03" href="cap03.html" media-type="application/xhtml+xml"/>
+	<item id="cap03a" href="cap03a.html" media-type="application/xhtml+xml"/>
+	<item id="cap04" href="cap04.html" media-type="application/xhtml+xml"/>
+	<item id="cap04a" href="cap04a.html" media-type="application/xhtml+xml"/>
+	<item id="cap05" href="cap05.html" media-type="application/xhtml+xml"/>
+	<item id="cap05a" href="cap05a.html" media-type="application/xhtml+xml"/>
+	<item id="cap06" href="cap06.html" media-type="application/xhtml+xml"/>
+	<item id="cap06a" href="cap06a.html" media-type="application/xhtml+xml"/>
+	<item id="cap07" href="cap07.html" media-type="application/xhtml+xml"/>
+	<item id="cap07a" href="cap07a.html" media-type="application/xhtml+xml"/>
+	<item id="cap08" href="cap08.html" media-type="application/xhtml+xml"/>
+	<item id="cap08a" href="cap08a.html" media-type="application/xhtml+xml"/>
+	<item id="cap09" href="cap09.html" media-type="application/xhtml+xml"/>
+	<item id="cap09a" href="cap09a.html" media-type="application/xhtml+xml"/>
+	<item id="cap10" href="cap10.html" media-type="application/xhtml+xml"/>
+	<item id="cap10a" href="cap10a.html" media-type="application/xhtml+xml"/>
+	<item id="cap11" href="cap11.html" media-type="application/xhtml+xml"/>
+	<item id="cap11a" href="cap11a.html" media-type="application/xhtml+xml"/>
+	<item id="cap12" href="cap12.html" media-type="application/xhtml+xml"/>
+	<item id="cap12a" href="cap12a.html" media-type="application/xhtml+xml"/>
+	<item id="cap13" href="cap13.html" media-type="application/xhtml+xml"/>
+	<item id="cap13a" href="cap13a.html" media-type="application/xhtml+xml"/>
+	
+	<item id="f01" href="imgs/f01.png" media-type="image/png"/>
+	<item id="tit01" href="imgs/tit01.png" media-type="image/png"/>
+	<item id="tit02" href="imgs/tit02.png" media-type="image/png"/>
+	<item id="tit03" href="imgs/tit03.png" media-type="image/png"/>
+	<item id="tit04" href="imgs/tit04.png" media-type="image/png"/>
+	<item id="tit05" href="imgs/tit05.png" media-type="image/png"/>
+	<item id="tit06" href="imgs/tit06.png" media-type="image/png"/>
+	<item id="tit07" href="imgs/tit07.png" media-type="image/png"/>
+	<item id="tit08" href="imgs/tit08.png" media-type="image/png"/>
+	<item id="tit09" href="imgs/tit09.png" media-type="image/png"/>
+	<item id="tit10" href="imgs/tit10.png" media-type="image/png"/>
+	<item id="tit11" href="imgs/tit11.png" media-type="image/png"/>
+	<item id="tit12" href="imgs/tit12.png" media-type="image/png"/>
+	<item id="tit13" href="imgs/tit13.png" media-type="image/png"/>
+</manifest>
+
+<spine toc="ncx">
+	<itemref linear="yes" idref="cover" />
+	<itemref linear="yes" idref="portada"/>
+	<itemref linear="yes" idref="portada2"/>
+	<itemref linear="yes" idref="texlegal"/>
+	<itemref linear="yes" idref="contenido"/>
+	<itemref linear="yes" idref="presentacion"/>
+	<itemref linear="yes" idref="portadilla"/>
+	<itemref linear="yes" idref="cap01"/>
+	<itemref linear="yes" idref="cap01a"/>
+	<itemref linear="yes" idref="cap02"/>
+	<itemref linear="yes" idref="cap02a"/>
+	<itemref linear="yes" idref="cap03"/>
+	<itemref linear="yes" idref="cap03a"/>	
+	<itemref linear="yes" idref="cap04"/>
+	<itemref linear="yes" idref="cap04a"/>
+	<itemref linear="yes" idref="cap05"/>
+	<itemref linear="yes" idref="cap05a"/>
+	<itemref linear="yes" idref="cap06"/>
+	<itemref linear="yes" idref="cap06a"/>	
+	<itemref linear="yes" idref="cap07"/>
+	<itemref linear="yes" idref="cap07a"/>
+	<itemref linear="yes" idref="cap08"/>
+	<itemref linear="yes" idref="cap08a"/>
+	<itemref linear="yes" idref="cap09"/>
+	<itemref linear="yes" idref="cap09a"/>	
+	<itemref linear="yes" idref="cap10"/>
+	<itemref linear="yes" idref="cap10a"/>
+	<itemref linear="yes" idref="cap11"/>
+	<itemref linear="yes" idref="cap11a"/>
+	<itemref linear="yes" idref="cap12"/>
+	<itemref linear="yes" idref="cap12a"/>	
+	<itemref linear="yes" idref="cap13"/>
+	<itemref linear="yes" idref="cap13a"/>		
+</spine>
+
+<guide>
+	<reference type="cover" title="Algunos espectros orientales" href="cover.xml"/>
+	<reference type="other.reader-start-page" title="Libro al viento, Algunos espectros orientales" href="portada.xml"/>
+	<reference type="title-page" title="Algunos espectros orientales, portada" href="portada.xml"/>
+	<reference type="copyright-page" title="Créditos" href="texlegal.html"/>
+	<reference type="toc" title="Contenido" href="contenido.html"/>
+	<reference type="foreword" title="Introducción" href="presentacion.html"/>
+	<reference type="text" title="Algunos espectros orientales, portadilla" href="portadilla.xml"/>
+	<reference type="other.cap01" title="El secreto de la muerta" href="cap01.html"/>
+	<reference type="other.cap01a" title="El secreto de la muerta" href="cap01a.html"/>
+	<reference type="other.cap02" title="Oshidori" href="cap02.html"/>
+	<reference type="other.cap02a" title="Oshidori" href="cap02a.html"/>
+	<reference type="other.cap03" title="Jikininki" href="cap03.html"/>
+	<reference type="other.cap03a" title="Jikininki" href="cap03a.html"/>
+	<reference type="other.cap04" title="Ubazakura" href="cap04.html"/>
+	<reference type="other.cap04a" title="Ubazakura" href="cap04a.html"/>
+	<reference type="other.cap05" title="Diplomacia" href="cap05.html"/>
+	<reference type="other.cap05a" title="Diplomacia" href="cap05a.html"/>
+	<reference type="other.cap06" title="El sueño de Akinosuké" href="cap06.html"/>
+	<reference type="other.cap06a" title="El sueño de Akinosuké" href="cap06a.html"/>
+	<reference type="other.cap07" title="La doncella del espejo" href="cap07.html"/>
+	<reference type="other.cap07a" title="La doncella del espejo" href="cap07a.html"/>
+	<reference type="other.cap08" title="La historia de Kogi el sacerdote" href="cap08.html"/>
+	<reference type="other.cap08a" title="La historia de Kogi el sacerdote" href="cap08a.html"/>
+	<reference type="other.cap09" title="El espíritu de la gran campana" href="cap09.html"/>
+	<reference type="other.cap09a" title="El espíritu de la gran campana" href="cap09a.html"/>
+	<reference type="other.cap10" title="La Historia de Ming-Y" href="cap10.html"/>
+	<reference type="other.cap10a" title="La Historia de Ming-Y" href="cap10a.html"/>
+	<reference type="other.cap11" title="Aullido" href="cap11.html"/>
+	<reference type="other.cap11a" title="Aullido" href="cap11a.html"/>
+	<reference type="other.cap12" title="Furisodé" href="cap12.html"/>
+	<reference type="other.cap12a" title="Furisodé" href="cap12a.html"/>
+	<reference type="other.cap13" title="Una historia de adivinación" href="cap13.html"/>
+	<reference type="other.cap13a" title="Una historia de adivinación" href="cap13a.html"/>
+</guide>
+</package>

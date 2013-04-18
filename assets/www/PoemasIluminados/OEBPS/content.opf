@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<dc:title>Poemas iluminados</dc:title>
+	<dc:creator opf:role="aut" opf:file-as="Santa Teresa de Jesús">Santa Teresa de Jesús</dc:creator>
+	<dc:creator opf:role="aut" opf:file-as="Fray Luis de León">Fray Luis de León</dc:creator>
+	<dc:creator opf:role="aut" opf:file-as="San Juan de la Cruz">San Juan de la Cruz</dc:creator>
+	<dc:creator opf:role="aut" opf:file-as="Sor Juana Inés de la Cruz">Sor Juana Inés de la Cruz</dc:creator>
+	<dc:publisher>Instituto Distrital de las Artes – Idartes</dc:publisher>
+	<dc:rights>Copyright Instituto Distrital de las Artes – idartes ©2012</dc:rights>
+	<dc:identifier id="BookId">9789588471129</dc:identifier>
+	<dc:language>es</dc:language>
+	
+	<dc:subject>poemas iluminados, literatura española, literatura mística, poesía religiosa, libro al viento, secretaría de cultura bogotá, julio paredes</dc:subject>
+      <dc:description>Este librito que hemos titulado Poemas iluminados es, por encima de todo y más allá de culaquier interpretación que decida aventurar el lector de Libro al Viento, una breve selección de fragmentos de la poesía de cuatro autores que, entre los siglos XVI y XVII, iluminaron con sus palabras, intenciones y ritmos particulares, la lírica imaginada y escrita en castellano.</dc:description>
+      <dc:date>2013-01-20</dc:date>
+	  <dc:contributor opf:role="aut" opf:file-as="Santa Teresa de Jesús">Santa Teresa de Jesús</dc:contributor>
+	  <dc:contributor opf:role="aut" opf:file-as="Fray Luis de León">Fray Luis de León</dc:contributor>
+	  <dc:contributor opf:role="aut" opf:file-as="Santa Teresa de Jesús">Santa Teresa de Jesús</dc:contributor>
+	  <dc:contributor opf:role="aut" opf:file-as="Sor Juana Inés de la Cruz">Sor Juana Inés de la Cruz</dc:contributor>
+	<dc:contributor opf:role="aui" opf:file-as="Paredes Castro, Julio">Julio Paredes Castro</dc:contributor>
+	  
+	<meta name="cover" content="cover-image"/>
+</metadata>
+
+<manifest>
+	<item id="cover" href="cover.xml" media-type="application/xhtml+xml"/>
+	<item id="cover-image" href="imgs/cover.png" media-type="image/png"/>
+	<item id="portada" href="portada.xml" media-type="application/xhtml+xml"/>
+	<item id="portada2" href="portada2.xml" media-type="application/xhtml+xml"/>
+	<item id="fportada" href="imgs/portada.png" media-type="image/png"/>
+	<item id="fportada2" href="imgs/portada2.png" media-type="image/png"/>
+	<item id="style" href="estilos.css" media-type="text/css"/>
+	<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>	
+	<item id="texlegal" href="texlegal.html" media-type="application/xhtml+xml"/>
+	<item id="contenido" href="contenido.html" media-type="application/xhtml+xml"/>
+	<item id="presentacion" href="presentacion.html" media-type="application/xhtml+xml"/>
+	<item id="cap01" href="cap01.html" media-type="application/xhtml+xml"/>
+	<item id="cap02" href="cap02.html" media-type="application/xhtml+xml"/>
+	<item id="cap03" href="cap03.html" media-type="application/xhtml+xml"/>
+	<item id="cap04" href="cap04.html" media-type="application/xhtml+xml"/>
+	<item id="cap05" href="cap05.html" media-type="application/xhtml+xml"/>
+	<item id="cap06" href="cap06.html" media-type="application/xhtml+xml"/>
+	<item id="cap07" href="cap07.html" media-type="application/xhtml+xml"/>
+	<item id="cap08" href="cap08.html" media-type="application/xhtml+xml"/>
+	<item id="cap09" href="cap09.html" media-type="application/xhtml+xml"/>
+	<item id="cap10" href="cap10.html" media-type="application/xhtml+xml"/>
+	<item id="cap11" href="cap11.html" media-type="application/xhtml+xml"/>
+	<item id="cap12" href="cap12.html" media-type="application/xhtml+xml"/>
+	<item id="cap13" href="cap13.html" media-type="application/xhtml+xml"/>
+	<item id="cap14" href="cap14.html" media-type="application/xhtml+xml"/>
+	<item id="cap15" href="cap15.html" media-type="application/xhtml+xml"/>
+	<item id="cap16" href="cap16.html" media-type="application/xhtml+xml"/>
+	<item id="cap17" href="cap17.html" media-type="application/xhtml+xml"/>
+	<item id="cap18" href="cap18.html" media-type="application/xhtml+xml"/>
+	<item id="cap19" href="cap19.html" media-type="application/xhtml+xml"/>
+	<item id="cap20" href="cap20.html" media-type="application/xhtml+xml"/>
+	<item id="cap21" href="cap21.html" media-type="application/xhtml+xml"/>
+	<item id="cap22" href="cap22.html" media-type="application/xhtml+xml"/>
+	<item id="cap23" href="cap23.html" media-type="application/xhtml+xml"/>
+	
+	<item id="f01" href="imgs/f01.png" media-type="image/png"/>
+	<item id="f02" href="imgs/f02.png" media-type="image/png"/>
+	<item id="f03" href="imgs/f03.png" media-type="image/png"/>
+	<item id="f04" href="imgs/f04.png" media-type="image/png"/>
+</manifest>
+
+<spine toc="ncx">
+	<itemref linear="yes" idref="cover" />
+	<itemref linear="yes" idref="portada"/>
+	<itemref linear="yes" idref="portada2"/>
+	<itemref linear="yes" idref="texlegal"/>
+	<itemref linear="yes" idref="contenido"/>
+	<itemref linear="yes" idref="presentacion"/>
+	<itemref linear="yes" idref="cap01"/>
+	<itemref linear="yes" idref="cap02"/>	
+	<itemref linear="yes" idref="cap03"/>	
+	<itemref linear="yes" idref="cap04"/>
+	<itemref linear="yes" idref="cap05"/>
+	<itemref linear="yes" idref="cap06"/>	
+	<itemref linear="yes" idref="cap07"/>	
+	<itemref linear="yes" idref="cap08"/>
+	<itemref linear="yes" idref="cap09"/>
+	<itemref linear="yes" idref="cap10"/>
+	<itemref linear="yes" idref="cap11"/>
+	<itemref linear="yes" idref="cap12"/>	
+	<itemref linear="yes" idref="cap13"/>	
+	<itemref linear="yes" idref="cap14"/>
+	<itemref linear="yes" idref="cap15"/>
+	<itemref linear="yes" idref="cap16"/>	
+	<itemref linear="yes" idref="cap17"/>	
+	<itemref linear="yes" idref="cap18"/>
+	<itemref linear="yes" idref="cap19"/>
+	<itemref linear="yes" idref="cap20"/>
+	<itemref linear="yes" idref="cap21"/>
+	<itemref linear="yes" idref="cap22"/>	
+	<itemref linear="yes" idref="cap23"/>							
+</spine>
+
+<guide>
+	<reference type="cover" title="Poemas iluminados" href="cover.xml"/>
+	<reference type="other.reader-start-page" title="Libro al viento, Poemas iluminados" href="portada.xml"/>
+	<reference type="title-page" title="Poemas iluminados, portada" href="portada2.xml"/>
+	<reference type="copyright-page" title="Créditos" href="texlegal.html"/>
+	<reference type="toc" title="Contenido" href="contenido.html"/>
+	<reference type="foreword" title="Introducción" href="presentacion.html"/>
+	<reference type="text" title="Santa Teresa de Jesús 1515-1582" href="cap01.html"/>
+	<reference type="other.cap02" title="Mi amado para mí" href="cap02.html"/>
+	<reference type="other.cap03" title="Muero porque no muero" href="cap03.html"/>
+	<reference type="other.cap04" title="Búscate en mí" href="cap04.html"/>
+	<reference type="other.cap05" title="Hermosura de Dios" href="cap05.html"/>
+	<reference type="other.cap06" title="Ayes del destierro" href="cap06.html"/>
+	<reference type="other.cap07" title="Fray Luis de León 1527-1591" href="cap07.html"/>
+	<reference type="other.cap08" title="Vida retirada" href="cap08.html"/>
+	<reference type="other.cap09" title="A la salida de la cárcel" href="cap09.html"/>
+	<reference type="other.cap10" title="Al apartamiento" href="cap10.html"/>
+	<reference type="other.cap11" title="Noche serena" href="cap11.html"/>
+	<reference type="other.cap12" title="En una esperanza que salió vana" href="cap12.html"/>
+	<reference type="other.cap13" title="Del mundo y su vanidad" href="cap13.html"/>
+	<reference type="other.cap14" title="San Juan de la Cruz 1542-1591" href="cap14.html"/>
+	<reference type="other.cap15" title="Cántico" href="cap15.html"/>
+	<reference type="other.cap16" title="Canciones del alma que se goza de haber llegado..." href="cap16.html"/>
+	<reference type="other.cap17" title="Canciones del alma en la íntima comunicación..." href="cap17.html"/>
+	<reference type="other.cap18" title="Coplas del alma que pena por ver a Dios" href="cap18.html"/>
+	<reference type="other.cap19" title="Cantar del alma que se huelga de conocer a Dios por fe" href="cap19.html"/>
+	<reference type="other.cap20" title="Sor Juana Inés de la Cruz 1648-1695" href="cap20.html"/>
+	<reference type="other.cap21" title="Villancicos de navidad, primero nocturno" href="cap21.html"/>
+	<reference type="other.cap22" title="Villancicos de navidad, segundo nocturno" href="cap22.html"/>
+	<reference type="other.cap23" title="Villancicos de navidad, tercero nocturno" href="cap23.html"/>
+</guide>
+</package>

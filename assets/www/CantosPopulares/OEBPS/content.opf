@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<dc:title>Cantos populares de mi tierra</dc:title>
+	<dc:creator opf:role="aut" opf:file-as="Obeso, Candelario">Candelario Obeso</dc:creator>
+	<dc:publisher>Instituto Distrital de las Artes – Idartes</dc:publisher>
+	<dc:rights>Copyright Instituto Distrital de las Artes – idartes ©2012</dc:rights>
+	<dc:identifier id="BookId">9789588471112</dc:identifier>
+	<dc:language>es</dc:language>
+	
+	<dc:subject>cantos populares de mi tierra, candelario obeso, literatura colombiana, libro al viento, literatura afrocolombiana, secretaría de cultura bogotá, cultura colombiana</dc:subject>
+      <dc:description>Candelario Obeso tenía el conocimiento suficiente de la región y la sensibilidad para abordar el estudio de un universo que nunca le fue ajeno. Él reveló y valoró, como ningún otro, el mundo material y espiritual de los bogas, y también forjó un trabajo científico que se inscribe dentro de las tendencias de los gramáticos estadistas de finales del siglo XIX. La presente edición de Cantos populares de mi tierra, publicada en el marco del programa Libro al Viento y del Año Obeso-Artel del Ministerio de Cultura, constituye una forma de reconocimiento a la actividad intelectual de Candelario Obeso. Un hombre que en su corta vida procuró con esfuerzo y talento edificarse un espacio en el panorama literario nacional.</dc:description>
+      <dc:date>2013-01-20</dc:date>
+	  <dc:contributor opf:role="aut" opf:file-as="Obeso, Candelario">Candelario Obeso</dc:contributor>
+	<dc:contributor opf:role="aui" opf:file-as="Ortiz Cassiani, Javier">Javier Ortiz Cassiani</dc:contributor>
+	  
+	<meta name="cover" content="cover-image"/>
+</metadata>
+
+<manifest>
+	<item id="cover" href="cover.xml" media-type="application/xhtml+xml"/>
+	<item id="cover-image" href="imgs/cover.png" media-type="image/png"/>
+	<item id="portada" href="portada.xml" media-type="application/xhtml+xml"/>
+	<item id="portada2" href="portada2.xml" media-type="application/xhtml+xml"/>
+	<item id="fportada" href="imgs/portada.png" media-type="image/png"/>
+	<item id="fportada2" href="imgs/portada2.png" media-type="image/png"/>
+	<item id="portadilla" href="portadilla.html" media-type="application/xhtml+xml"/>
+	<item id="style" href="estilos.css" media-type="text/css"/>
+	<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>	
+	<item id="texlegal" href="texlegal.html" media-type="application/xhtml+xml"/>
+	<item id="contenido" href="contenido.html" media-type="application/xhtml+xml"/>
+	<item id="presentacion" href="presentacion.html" media-type="application/xhtml+xml"/>
+	<item id="cap01" href="cap01.html" media-type="application/xhtml+xml"/>
+	<item id="cap02" href="cap02.html" media-type="application/xhtml+xml"/>
+	<item id="cap03" href="cap03.html" media-type="application/xhtml+xml"/>
+	<item id="cap04" href="cap04.html" media-type="application/xhtml+xml"/>
+	<item id="cap05" href="cap05.html" media-type="application/xhtml+xml"/>
+	<item id="cap06" href="cap06.html" media-type="application/xhtml+xml"/>
+	<item id="cap07" href="cap07.html" media-type="application/xhtml+xml"/>
+	<item id="cap08" href="cap08.html" media-type="application/xhtml+xml"/>
+	<item id="cap09" href="cap09.html" media-type="application/xhtml+xml"/>
+	<item id="cap10" href="cap10.html" media-type="application/xhtml+xml"/>
+	<item id="cap11" href="cap11.html" media-type="application/xhtml+xml"/>
+	<item id="cap12" href="cap12.html" media-type="application/xhtml+xml"/>
+	<item id="cap13" href="cap13.html" media-type="application/xhtml+xml"/>
+	<item id="cap14" href="cap14.html" media-type="application/xhtml+xml"/>
+	<item id="cap15" href="cap15.html" media-type="application/xhtml+xml"/>
+	<item id="cap16" href="cap16.html" media-type="application/xhtml+xml"/>
+	<item id="cap17" href="cap17.html" media-type="application/xhtml+xml"/>
+	<item id="cap18" href="cap18.html" media-type="application/xhtml+xml"/>
+	<item id="cap19" href="cap19.html" media-type="application/xhtml+xml"/>
+	<item id="cap20" href="cap20.html" media-type="application/xhtml+xml"/>
+</manifest>
+
+<spine toc="ncx">
+	<itemref linear="yes" idref="cover" />
+	<itemref linear="yes" idref="portada"/>
+	<itemref linear="yes" idref="portada2"/>
+	<itemref linear="yes" idref="texlegal"/>
+	<itemref linear="yes" idref="contenido"/>
+	<itemref linear="yes" idref="presentacion"/>
+	<itemref linear="yes" idref="portadilla"/>
+	<itemref linear="yes" idref="cap01"/>
+	<itemref linear="yes" idref="cap02"/>	
+	<itemref linear="yes" idref="cap03"/>	
+	<itemref linear="yes" idref="cap04"/>
+	<itemref linear="yes" idref="cap05"/>	
+	<itemref linear="yes" idref="cap06"/>
+	<itemref linear="yes" idref="cap07"/>
+	<itemref linear="yes" idref="cap08"/>	
+	<itemref linear="yes" idref="cap09"/>
+	<itemref linear="yes" idref="cap10"/>
+	<itemref linear="yes" idref="cap11"/>	
+	<itemref linear="yes" idref="cap12"/>
+	<itemref linear="yes" idref="cap13"/>
+	<itemref linear="yes" idref="cap14"/>	
+	<itemref linear="yes" idref="cap15"/>
+	<itemref linear="yes" idref="cap16"/>
+	<itemref linear="yes" idref="cap17"/>	
+	<itemref linear="yes" idref="cap18"/>
+	<itemref linear="yes" idref="cap19"/>
+	<itemref linear="yes" idref="cap20"/>						
+</spine>
+
+<guide>
+	<reference type="cover" title="Cantos populares de mi tierra" href="cover.xml"/>
+	<reference type="other.reader-start-page" title="Libro al viento, Cantos populares de mi tierra" href="portada.xml"/>
+	<reference type="title-page" title="Cantos populares de mi tierra, portada" href="portada2.xml"/>
+	<reference type="copyright-page" title="Créditos" href="texlegal.html"/>
+	<reference type="toc" title="Contenido" href="contenido.html"/>
+	<reference type="foreword" title="Prólogo" href="presentacion.html"/>
+	<reference type="other.portadilla" title="Cantos populares de mi tierra, portadilla" href="portadilla.html"/>
+	<reference type="text" title="Dos palabras" href="cap01.html"/>
+	<reference type="other.cap02" title="Advertencia del autor" href="cap02.html"/>
+	<reference type="other.cap03" title="Dedicatoria" href="cap03.html"/>
+	<reference type="other.cap04" title="Lo palomos" href="cap04.html"/>
+	<reference type="other.cap05" title="La oberiencia filiá" href="cap05.html"/>
+	<reference type="other.cap06" title="Canción der boga ausente" href="cap06.html"/>
+	<reference type="other.cap07" title="Cuento a mi ejposa" href="cap07.html"/>
+	<reference type="other.cap08" title="Canto der montará" href="cap08.html"/>
+	<reference type="other.cap09" title="Er boga chaclatán" href="cap09.html"/>
+	<reference type="other.cap10" title="Epropiacion re uno corigos" href="cap10.html"/>
+	<reference type="other.cap11" title="Versión castiza" href="cap11.html"/>
+	<reference type="other.cap12" title="Epresión re mi amitá" href="cap12.html"/>
+	<reference type="other.cap13" title="Serenata" href="cap13.html"/>
+	<reference type="other.cap14" title="Arió" href="cap14.html"/>
+	<reference type="other.cap15" title="Lucha i conquijta" href="cap15.html"/>
+	<reference type="other.cap16" title="A mi morena" href="cap16.html"/>
+	<reference type="other.cap17" title="Canción del pejcaró" href="cap17.html"/>
+	<reference type="other.cap18" title="Parábola" href="cap18.html"/>
+	<reference type="other.cap19" title="No rigo er nombre" href="cap19.html"/>
+	<reference type="other.cap20" title="Diálogo picarejco" href="cap20.html"/>
+</guide>
+</package>

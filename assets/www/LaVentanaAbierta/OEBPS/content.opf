@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<dc:title>La ventana abierta y otros cuentos sorprendentes</dc:title>
+	<dc:creator opf:role="aut" opf:file-as="Saki">Saki</dc:creator>
+	<dc:creator opf:role="aut" opf:file-as="Chopin, Kate">Kate Chopin</dc:creator>
+	<dc:creator opf:role="aut" opf:file-as="James, Henry">Henry James</dc:creator>
+	<dc:creator opf:role="aut" opf:file-as="London, Jack">Jack London</dc:creator>
+	<dc:creator opf:role="aut" opf:file-as="Twain, Mark">Mark Twain</dc:creator>
+	<dc:creator opf:role="aut" opf:file-as="Bierce, Ambrose">Ambrose Bierce</dc:creator>
+	<dc:publisher>Instituto Distrital de las Artes – idartes</dc:publisher>
+	<dc:rights>Copyright Instituto Distrital de las Artes – idartes ©2012</dc:rights>
+	<dc:identifier id="BookId">9588232791</dc:identifier>
+	<dc:language>es</dc:language>
+	
+	<dc:subject>libro al viento, antología cuento, literatura universal, julio paredes, Saki, Kate Chopin, Henry James, Jack London, Mark Twain, Ambrose Bierce, idartes</dc:subject>
+      <dc:description>Lo que hoy llamamos y entendemos como un cuento, tanto por su estructura como por su atmósfera, tensión y ritmo, tiene uno de sus principales orígenes en el mundo literario anglosajón, territorio donde logra una forma casi definitiva a lo largo del siglo XIX, y alcanza límites incomparables en el XX. Cualquier lector podría empezar con Edgar Allan Poe y terminar con Raymond Carver para descubrir que el cuento escrito en inglés es, sin duda, uno de los ámbitos más fértiles y ricos del género. La presente colección reúne a seis autores anglosajones, seis ejemplos fechados en el siglo XIX, que nos ofrecen seis formas distintas, sorprendentes y clásicas de narrar un cuento.</dc:description>
+      <dc:date>2013-01-15</dc:date>
+	  <dc:contributor opf:role="aut" opf:file-as="Saki">Saki</dc:contributor>
+	<dc:contributor opf:role="aut" opf:file-as="Chopin, Kate">Kate Chopin</dc:contributor>
+	<dc:contributor opf:role="aut" opf:file-as="James, Henry">Henry James</dc:contributor>
+	<dc:contributor opf:role="aut" opf:file-as="London, Jack">Jack London</dc:contributor>
+	<dc:contributor opf:role="aut" opf:file-as="Twain, Mark">Mark Twain</dc:contributor>
+	<dc:contributor opf:role="aut" opf:file-as="Bierce, Ambrose">Ambrose Bierce</dc:contributor>
+	<dc:contributor opf:role="aui" opf:file-as="Paredes Castro, Julio">Julio Paredes Castro</dc:contributor>
+	  
+	<meta name="cover" content="cover-image"/>
+</metadata>
+
+<manifest>
+	<item id="cover" href="cover.xml" media-type="application/xhtml+xml"/>
+	<item id="cover-image" href="imgs/cover.png" media-type="image/png"/>
+	<item id="portada" href="portada.xml" media-type="application/xhtml+xml"/>
+	<item id="portada2" href="portada2.xml" media-type="application/xhtml+xml"/>
+	<item id="fportada" href="imgs/portada.png" media-type="image/png"/>
+	<item id="fportada2" href="imgs/portada2.png" media-type="image/png"/>
+	<item id="portadilla" href="portadilla.xml" media-type="application/xhtml+xml"/>
+	<item id="fportadilla" href="imgs/portadilla.png" media-type="image/png"/>
+	<item id="style" href="estilos.css" media-type="text/css"/>
+	<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>	
+	<item id="texlegal" href="texlegal.html" media-type="application/xhtml+xml"/>
+	<item id="contenido" href="contenido.html" media-type="application/xhtml+xml"/>
+	<item id="presentacion" href="presentacion.html" media-type="application/xhtml+xml"/>
+	<item id="cap01" href="cap01.html" media-type="application/xhtml+xml"/>
+	<item id="cap02" href="cap02.html" media-type="application/xhtml+xml"/>
+	<item id="cap03" href="cap03.html" media-type="application/xhtml+xml"/>
+	<item id="cap04" href="cap04.html" media-type="application/xhtml+xml"/>
+	<item id="cap05" href="cap05.html" media-type="application/xhtml+xml"/>
+	<item id="cap06" href="cap06.html" media-type="application/xhtml+xml"/>
+</manifest>
+
+<spine toc="ncx">
+	<itemref linear="yes" idref="cover" />
+	<itemref linear="yes" idref="portada"/>
+	<itemref linear="yes" idref="portada2"/>
+	<itemref linear="yes" idref="texlegal"/>
+	<itemref linear="yes" idref="contenido"/>
+	<itemref linear="yes" idref="presentacion"/>
+	<itemref linear="yes" idref="portadilla"/>
+	<itemref linear="yes" idref="cap01"/>
+	<itemref linear="yes" idref="cap02"/>	
+	<itemref linear="yes" idref="cap03"/>	
+	<itemref linear="yes" idref="cap04"/>
+	<itemref linear="yes" idref="cap05"/>
+	<itemref linear="yes" idref="cap06"/>						
+</spine>
+
+<guide>
+	<reference type="cover" title="La ventana abierta y otros cuentos sorprendentes" href="cover.xml"/>
+	<reference type="other.reader-start-page" title="Libro al viento, La ventana abierta y otros cuentos sorprendentes" href="portada.xml"/>
+	<reference type="title-page" title="La ventana abierta y otros cuentos sorprendentes, portada" href="portada2.xml"/>
+	<reference type="copyright-page" title="Créditos" href="texlegal.html"/>
+	<reference type="toc" title="Contenido" href="contenido.html"/>
+	<reference type="foreword" title="Introducción" href="presentacion.html"/>
+	<reference type="other.portadilla" title="La ventana abierta y otros cuentos sorprendentes, portadilla" href="portadilla.xml"/>
+	<reference type="text" title="La ventana abierta" href="cap01.html"/>
+	<reference type="other.cap02" title="Una mujer respetable" href="cap02.html"/>
+	<reference type="other.cap03" title="Los años de madurez" href="cap03.html"/>
+	<reference type="other.cap04" title="El pagano" href="cap04.html"/>
+	<reference type="other.cap05" title="Una historia sin final" href="cap05.html"/>
+	<reference type="other.cap06" title="La ventana tapiada" href="cap06.html"/>
+</guide>
+</package>

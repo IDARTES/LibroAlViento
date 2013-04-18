@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Jorge Aristizábal Gáfaro</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>90C69EAE7422DFAAB81B5675A208D5E2</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/imgs/cover.png</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>050EB566CC06AC3442DE4401589172BD</string>
+		<key>publisher-unique-id</key>
+		<string>9789585731783</string>
+		<key>unique-id</key>
+		<integer>7099055878219590921</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>ciencia ficción, literatura latinoamericana, libro al viento</string>
+	<key>itemName</key>
+	<string>¿Sueñan los androides con alpacas eléctricas?, ficciones de Latinoamérica</string>
+	<key>playlistName</key>
+	<string>¿Sueñan los androides con alpacas eléctricas?, ficciones de Latinoamérica</string>
+	<key>releaseDate</key>
+	<string>2012-12-10</string>
+	<key>sort-artist</key>
+	<string>Aristizábal Gáfaro, Jorge</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

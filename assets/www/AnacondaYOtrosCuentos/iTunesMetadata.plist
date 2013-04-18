@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Horacio Quiroga</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>C3307F48799AE4AFB88BC0E29E0E9CD8</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/imgs/cover.png</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>AC64157ECFB6C0FEA435EDACD5156414</string>
+		<key>publisher-unique-id</key>
+		<string>9789588471464</string>
+		<key>unique-id</key>
+		<integer>6013941124232314058</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>libro al viento, cuento, literatura uruguaya, horacio quiroga, julio paredes, idartes</string>
+	<key>itemName</key>
+	<string>Anaconda y otros cuentos</string>
+	<key>playlistName</key>
+	<string>Anaconda y otros cuentos</string>
+	<key>releaseDate</key>
+	<string>2013-01-20</string>
+	<key>sort-artist</key>
+	<string>Quiroga, Horacio</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

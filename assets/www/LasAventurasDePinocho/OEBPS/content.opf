@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<dc:title>Las aventuras de Pinocho</dc:title>
+	<dc:creator opf:role="aut" opf:file-as="Collodi, Carlo">Carlo Collodi</dc:creator>
+	<dc:publisher>Instituto Distrital de las Artes – idartes</dc:publisher>
+	<dc:rights>Copyright Instituto Distrital de las Artes – idartes ©2012</dc:rights>
+	<dc:identifier id="BookId">9789585731790</dc:identifier>
+	<dc:language>es</dc:language>
+	
+	<dc:subject>, pinocho, literatura universal, carlo collodi, literatura infantil, libro al viento, idartes, aventuras</dc:subject>
+      <dc:description>En esta oportunidad, los lectores de Libro al Viento tienen en sus manos Las aventuras de Pinocho en traducción exclusiva y texto íntegro. Estas páginas contienen un relato insospechado, con resonancias absurdas y tintes del más descarnado realismo, episodios de redención y crueles hundimientos, inestables tránsitos entre lo risueño y lo macabro, concesiones y transgresiones al cuento de hadas, ambigüedades morales que caracterizan a Pinocho y los demás personajes. Por ese filo transita la buena, la verdadera literatura, aquella que describe Robert Browning en su Apología del obispo Blougram y que utilizó Pamuk como epígrafe de una novela: «Nos interesa el límite peligroso de las cosas. / El ladrón honesto, el asesino sensible, / el ateo supersticioso».</dc:description>
+      <dc:date>2012-12-05</dc:date>
+	  <dc:contributor opf:role="aut" opf:file-as="Collodi, Carlo">Carlo Collodi</dc:contributor>
+	<meta name="cover" content="cover-image"/>
+</metadata>
+
+<manifest>
+	<item id="cover" href="cover.xml" media-type="application/xhtml+xml"/>
+	<item id="cover-image" href="imgs/cover.png" media-type="image/png"/>
+	<item id="portada" href="portada.xml" media-type="application/xhtml+xml"/>
+	<item id="portada2" href="portada2.xml" media-type="application/xhtml+xml"/>
+	<item id="portadilla" href="portadilla.xml" media-type="application/xhtml+xml"/>
+	<item id="fportada" href="imgs/portada.png" media-type="image/png"/>
+	<item id="fportada2" href="imgs/portada2.png" media-type="image/png"/>
+	<item id="fportadilla" href="imgs/portadilla.png" media-type="image/png"/>
+	<item id="style" href="estilos.css" media-type="text/css"/>
+	<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>	
+	<item id="texlegal" href="texlegal.html" media-type="application/xhtml+xml"/>
+	
+	<item id="contenido" href="contenido.html" media-type="application/xhtml+xml"/>
+	<item id="presentacion" href="presentacion.html" media-type="application/xhtml+xml"/>
+	<item id="cap01" href="cap01.html" media-type="application/xhtml+xml"/>
+	<item id="cap02" href="cap02.html" media-type="application/xhtml+xml"/>
+	<item id="cap03" href="cap03.html" media-type="application/xhtml+xml"/>
+	<item id="cap04" href="cap04.html" media-type="application/xhtml+xml"/>
+	<item id="cap05" href="cap05.html" media-type="application/xhtml+xml"/>
+	<item id="cap06" href="cap06.html" media-type="application/xhtml+xml"/>
+	<item id="cap07" href="cap07.html" media-type="application/xhtml+xml"/>
+	<item id="cap08" href="cap08.html" media-type="application/xhtml+xml"/>
+	<item id="cap09" href="cap09.html" media-type="application/xhtml+xml"/>
+	<item id="cap10" href="cap10.html" media-type="application/xhtml+xml"/>
+	<item id="cap11" href="cap11.html" media-type="application/xhtml+xml"/>
+	<item id="cap12" href="cap12.html" media-type="application/xhtml+xml"/>
+	<item id="cap13" href="cap13.html" media-type="application/xhtml+xml"/>
+	<item id="cap14" href="cap14.html" media-type="application/xhtml+xml"/>
+	<item id="cap15" href="cap15.html" media-type="application/xhtml+xml"/>
+	<item id="cap16" href="cap16.html" media-type="application/xhtml+xml"/>
+	<item id="cap17" href="cap17.html" media-type="application/xhtml+xml"/>
+	<item id="cap18" href="cap18.html" media-type="application/xhtml+xml"/>
+	<item id="cap19" href="cap19.html" media-type="application/xhtml+xml"/>
+	<item id="cap20" href="cap20.html" media-type="application/xhtml+xml"/>
+	<item id="cap21" href="cap21.html" media-type="application/xhtml+xml"/>
+	<item id="cap22" href="cap22.html" media-type="application/xhtml+xml"/>
+	<item id="cap23" href="cap23.html" media-type="application/xhtml+xml"/>
+	<item id="cap24" href="cap24.html" media-type="application/xhtml+xml"/>
+	<item id="cap25" href="cap25.html" media-type="application/xhtml+xml"/>
+	<item id="cap26" href="cap26.html" media-type="application/xhtml+xml"/>
+	<item id="cap27" href="cap27.html" media-type="application/xhtml+xml"/>
+	<item id="cap28" href="cap28.html" media-type="application/xhtml+xml"/>
+	<item id="cap29" href="cap29.html" media-type="application/xhtml+xml"/>
+	<item id="cap30" href="cap30.html" media-type="application/xhtml+xml"/>
+	<item id="cap31" href="cap31.html" media-type="application/xhtml+xml"/>
+	<item id="cap32" href="cap32.html" media-type="application/xhtml+xml"/>
+	<item id="cap33" href="cap33.html" media-type="application/xhtml+xml"/>
+	<item id="cap34" href="cap34.html" media-type="application/xhtml+xml"/>
+	<item id="cap35" href="cap35.html" media-type="application/xhtml+xml"/>
+	<item id="cap36" href="cap36.html" media-type="application/xhtml+xml"/>
+
+</manifest>
+
+<spine toc="ncx">
+	<itemref linear="yes" idref="cover" />
+	<itemref linear="yes" idref="portada"/>
+	<itemref linear="yes" idref="portada2"/>
+	<itemref linear="yes" idref="texlegal"/>
+	<itemref linear="yes" idref="contenido"/>
+	<itemref linear="yes" idref="presentacion"/>
+	<itemref linear="yes" idref="portadilla"/>
+	<itemref linear="yes" idref="cap01"/>
+	<itemref linear="yes" idref="cap02"/>	
+	<itemref linear="yes" idref="cap03"/>	
+	<itemref linear="yes" idref="cap04"/>
+	<itemref linear="yes" idref="cap05"/>
+	<itemref linear="yes" idref="cap06"/>	
+	<itemref linear="yes" idref="cap07"/>
+	<itemref linear="yes" idref="cap08"/>
+	<itemref linear="yes" idref="cap09"/>	
+	<itemref linear="yes" idref="cap10"/>
+	<itemref linear="yes" idref="cap11"/>
+	<itemref linear="yes" idref="cap12"/>	
+	<itemref linear="yes" idref="cap13"/>	
+	<itemref linear="yes" idref="cap14"/>
+	<itemref linear="yes" idref="cap15"/>
+	<itemref linear="yes" idref="cap16"/>	
+	<itemref linear="yes" idref="cap17"/>
+	<itemref linear="yes" idref="cap18"/>
+	<itemref linear="yes" idref="cap19"/>	
+	<itemref linear="yes" idref="cap20"/>
+	<itemref linear="yes" idref="cap21"/>
+	<itemref linear="yes" idref="cap22"/>	
+	<itemref linear="yes" idref="cap23"/>	
+	<itemref linear="yes" idref="cap24"/>
+	<itemref linear="yes" idref="cap25"/>
+	<itemref linear="yes" idref="cap26"/>	
+	<itemref linear="yes" idref="cap27"/>
+	<itemref linear="yes" idref="cap28"/>
+	<itemref linear="yes" idref="cap29"/>	
+	<itemref linear="yes" idref="cap30"/>
+	<itemref linear="yes" idref="cap31"/>
+	<itemref linear="yes" idref="cap32"/>	
+	<itemref linear="yes" idref="cap33"/>	
+	<itemref linear="yes" idref="cap34"/>
+	<itemref linear="yes" idref="cap35"/>
+	<itemref linear="yes" idref="cap36"/>				
+</spine>
+
+<guide>
+	<reference type="cover" title="Las aventuras de Pinocho" href="cover.xml"/>
+	<reference type="other.reader-start-page" title="Libro al viento, Las aventuras de Pinocho" href="portada.xml"/>
+	<reference type="title-page" title="Las aventuras de Pinocho, portada" href="portada.xml"/>
+	<reference type="copyright-page" title="Créditos" href="texlegal.html"/>
+	<reference type="toc" title="Contenido" href="contenido.html"/>
+	<reference type="foreword" title="Presentación" href="presentacion.html"/>
+	<reference type="text" title="Las aventuras de Pinocho, portadilla" href="portadilla.xml"/>
+	<reference type="other.cap01" title="I" href="cap01.html"/>
+	<reference type="other.cap02" title="II" href="cap02.html"/>
+	<reference type="other.cap03" title="III" href="cap03.html"/>
+	<reference type="other.cap04" title="IV" href="cap04.html"/>
+	<reference type="other.cap05" title="V" href="cap05.html"/>
+	<reference type="other.cap06" title="VI" href="cap06.html"/>
+	<reference type="other.cap07" title="VII" href="cap07.html"/>
+	<reference type="other.cap08" title="VIII" href="cap08.html"/>
+	<reference type="other.cap09" title="IX" href="cap09.html"/>
+	<reference type="other.cap10" title="X" href="cap10.html"/>
+	<reference type="other.cap11" title="XI" href="cap11.html"/>
+	<reference type="other.cap12" title="XII" href="cap12.html"/>
+	<reference type="other.cap13" title="XIII" href="cap13.html"/>
+	<reference type="other.cap14" title="XIV" href="cap14.html"/>
+	<reference type="other.cap15" title="XV" href="cap15.html"/>
+	<reference type="other.cap16" title="XVI" href="cap16.html"/>
+	<reference type="other.cap17" title="XVII" href="cap17.html"/>
+	<reference type="other.cap18" title="XVIII" href="cap18.html"/>
+	<reference type="other.cap19" title="XIX" href="cap19.html"/>
+	<reference type="other.cap20" title="XX" href="cap20.html"/>
+	<reference type="other.cap21" title="XXI" href="cap21.html"/>
+	<reference type="other.cap22" title="XXII" href="cap22.html"/>
+	<reference type="other.cap23" title="XXIII" href="cap23.html"/>
+	<reference type="other.cap24" title="XXIV" href="cap24.html"/>
+	<reference type="other.cap25" title="XXV" href="cap25.html"/>
+	<reference type="other.cap26" title="XXVI" href="cap26.html"/>
+	<reference type="other.cap27" title="XXVII" href="cap27.html"/>
+	<reference type="other.cap28" title="XXVIII" href="cap28.html"/>
+	<reference type="other.cap29" title="XXIX" href="cap29.html"/>
+	<reference type="other.cap30" title="XXX" href="cap30.html"/>
+	<reference type="other.cap31" title="XXXI" href="cap31.html"/>
+	<reference type="other.cap32" title="XXXII" href="cap32.html"/>
+	<reference type="other.cap33" title="XXXIII" href="cap33.html"/>
+	<reference type="other.cap34" title="XXXIV" href="cap34.html"/>
+	<reference type="other.cap35" title="XXXV" href="cap35.html"/>
+	<reference type="other.cap36" title="XXXVI" href="cap36.html"/>
+</guide>
+</package>

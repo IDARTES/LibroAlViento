@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+<head>
+<meta name="dtb:uid" content="BookId"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+
+<docTitle><text>Cantos populares de mi tierra</text></docTitle>
+<docAuthor><text>Candelario Obeso</text></docAuthor>
+<navMap>
+	<navPoint playOrder="1" id="navPoint-1">
+		<navLabel><text>Cubierta</text></navLabel>
+		<content src="cover.xml"/>
+	</navPoint>
+	<navPoint playOrder="2" id="navPoint-2">
+		<navLabel><text>Libro al viento</text></navLabel>
+		<content src="portada.xml"/>
+	</navPoint>	
+	<navPoint playOrder="3" id="navPoint-3">
+		<navLabel><text>Portada</text></navLabel>
+		<content src="portada2.xml"/>
+	</navPoint>
+	<navPoint playOrder="4" id="navPoint-4">
+		<navLabel><text>Créditos</text></navLabel>
+		<content src="texlegal.html"/>
+	</navPoint>
+	<navPoint playOrder="5" id="navPoint-5">
+		<navLabel><text>Contenido</text></navLabel>
+		<content src="contenido.html"/>
+	</navPoint>
+	<navPoint playOrder="6" id="navPoint-6">
+		<navLabel><text>Prólogo</text></navLabel>
+		<content src="presentacion.html"/>
+	</navPoint>
+	<navPoint playOrder="7" id="navPoint-7">
+		<navLabel><text>Portadilla</text></navLabel>
+		<content src="portadilla.html"/>
+	</navPoint>
+	<navPoint playOrder="8" id="navPoint-8">
+		<navLabel><text>Dos palabras</text></navLabel>
+		<content src="cap01.html"/>
+	</navPoint>
+	<navPoint playOrder="9" id="navPoint-9">
+		<navLabel><text>Advertencia del autor</text></navLabel>
+		<content src="cap02.html"/>
+	</navPoint>
+	<navPoint playOrder="10" id="navPoint-10">
+		<navLabel><text>Dedicatoria</text></navLabel>
+		<content src="cap03.html"/>
+	</navPoint>
+	<navPoint playOrder="11" id="navPoint-11">
+		<navLabel><text>Lo palomos</text></navLabel>
+		<content src="cap04.html"/>
+	</navPoint>
+	<navPoint playOrder="12" id="navPoint-12">
+		<navLabel><text>La oberiencia filiá</text></navLabel>
+		<content src="cap05.html"/>
+	</navPoint>
+	<navPoint playOrder="13" id="navPoint-13">
+		<navLabel><text>Canción der boga ausente</text></navLabel>
+		<content src="cap06.html"/>
+	</navPoint>
+	<navPoint playOrder="14" id="navPoint-14">
+		<navLabel><text>Cuento a mi ejposa</text></navLabel>
+		<content src="cap07.html"/>
+	</navPoint>
+	<navPoint playOrder="15" id="navPoint-15">
+		<navLabel><text>Canto der montará</text></navLabel>
+		<content src="cap08.html"/>
+	</navPoint>
+	<navPoint playOrder="16" id="navPoint-16">
+		<navLabel><text>Er boga chaclatán</text></navLabel>
+		<content src="cap09.html"/>
+	</navPoint>
+	<navPoint playOrder="17" id="navPoint-17">
+		<navLabel><text>Epropiacion re uno corigos</text></navLabel>
+		<content src="cap10.html"/>
+	</navPoint>
+	<navPoint playOrder="18" id="navPoint-18">
+		<navLabel><text>Versión castiza</text></navLabel>
+		<content src="cap11.html"/>
+	</navPoint>
+	<navPoint playOrder="19" id="navPoint-19">
+		<navLabel><text>Epresión re mi amitá</text></navLabel>
+		<content src="cap12.html"/>
+	</navPoint>
+	<navPoint playOrder="20" id="navPoint-20">
+		<navLabel><text>Serenata</text></navLabel>
+		<content src="cap13.html"/>
+	</navPoint>
+	<navPoint playOrder="21" id="navPoint-21">
+		<navLabel><text>Arió</text></navLabel>
+		<content src="cap14.html"/>
+	</navPoint>
+	<navPoint playOrder="22" id="navPoint-22">
+		<navLabel><text>Lucha i conquijta</text></navLabel>
+		<content src="cap15.html"/>
+	</navPoint>
+	<navPoint playOrder="23" id="navPoint-23">
+		<navLabel><text>A mi morena</text></navLabel>
+		<content src="cap16.html"/>
+	</navPoint>
+	<navPoint playOrder="24" id="navPoint-24">
+		<navLabel><text>Canción del pejcaró</text></navLabel>
+		<content src="cap17.html"/>
+	</navPoint>
+	<navPoint playOrder="25" id="navPoint-25">
+		<navLabel><text>Parábola</text></navLabel>
+		<content src="cap18.html"/>
+	</navPoint>
+	<navPoint playOrder="26" id="navPoint-26">
+		<navLabel><text>No rigo er nombre</text></navLabel>
+		<content src="cap19.html"/>
+	</navPoint>
+	<navPoint playOrder="27" id="navPoint-27">
+		<navLabel><text>Diálogo picarejco</text></navLabel>
+		<content src="cap20.html"/>
+	</navPoint>
+</navMap>
+</ncx>

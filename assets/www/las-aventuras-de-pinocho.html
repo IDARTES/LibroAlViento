@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Las Aventuras de Pinocho</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script src="js/monocore.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/monocore.css" />
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+
+        #reader {
+            min-height: 100%;
+        }
+    </style>
+    
+    <script type="text/javascript">
+        var bookData = {
+            getComponents: function () {
+                return [
+                    'LasAventurasDePinocho/OEBPS/cover.html',
+                    'LasAventurasDePinocho/OEBPS/portada.html',
+                    'LasAventurasDePinocho/OEBPS/portadilla.html',
+                    'LasAventurasDePinocho/OEBPS/portada2.html',
+                    'LasAventurasDePinocho/OEBPS/contenido.html',
+                    'LasAventurasDePinocho/OEBPS/presentacion.html',
+                    'LasAventurasDePinocho/OEBPS/cap01.html',
+                    'LasAventurasDePinocho/OEBPS/cap02.html',
+                    'LasAventurasDePinocho/OEBPS/cap03.html',
+                    'LasAventurasDePinocho/OEBPS/cap04.html',
+                    'LasAventurasDePinocho/OEBPS/cap05.html',
+                    'LasAventurasDePinocho/OEBPS/cap06.html',
+                    'LasAventurasDePinocho/OEBPS/cap07.html',
+                    'LasAventurasDePinocho/OEBPS/cap08.html',
+                    'LasAventurasDePinocho/OEBPS/cap09.html',
+                    'LasAventurasDePinocho/OEBPS/cap10.html',
+                    'LasAventurasDePinocho/OEBPS/cap11.html',
+                    'LasAventurasDePinocho/OEBPS/cap12.html',
+                    'LasAventurasDePinocho/OEBPS/cap13.html',
+                    'LasAventurasDePinocho/OEBPS/cap14.html',
+                    'LasAventurasDePinocho/OEBPS/cap15.html',
+                    'LasAventurasDePinocho/OEBPS/cap16.html',
+                    'LasAventurasDePinocho/OEBPS/cap17.html',
+                    'LasAventurasDePinocho/OEBPS/cap18.html',
+                    'LasAventurasDePinocho/OEBPS/cap19.html',
+                    'LasAventurasDePinocho/OEBPS/cap20.html',
+                    'LasAventurasDePinocho/OEBPS/cap21.html',
+                    'LasAventurasDePinocho/OEBPS/cap22.html',
+                    'LasAventurasDePinocho/OEBPS/cap23.html',
+                    'LasAventurasDePinocho/OEBPS/cap24.html',
+                    'LasAventurasDePinocho/OEBPS/cap25.html',
+                    'LasAventurasDePinocho/OEBPS/cap26.html',
+                    'LasAventurasDePinocho/OEBPS/cap27.html',
+                    'LasAventurasDePinocho/OEBPS/cap28.html',
+                    'LasAventurasDePinocho/OEBPS/cap29.html',
+                    'LasAventurasDePinocho/OEBPS/cap30.html',
+                    'LasAventurasDePinocho/OEBPS/cap31.html',
+                    'LasAventurasDePinocho/OEBPS/cap32.html',
+                    'LasAventurasDePinocho/OEBPS/cap33.html',
+                    'LasAventurasDePinocho/OEBPS/cap34.html',
+                    'LasAventurasDePinocho/OEBPS/cap35.html',
+                    'LasAventurasDePinocho/OEBPS/cap36.html',
+                    'LasAventurasDePinocho/OEBPS/texlegal.html'
+                    
+                    ];
+            },
+            getContents: function () {
+                return [
+                    {title: "Cover", src:"LasAventurasDePinocho/OEBPS/cover.html"},    
+                    {title: "Portada", src:"LasAventurasDePinocho/OEBPS/portada.html"},    
+                    {title: "Portada", src:"LasAventurasDePinocho/OEBPS/portadilla.html"},    
+                    {title: "Portada2", src:"LasAventurasDePinocho/OEBPS/portada2.html"},    
+                    {title: "Contenido", src:"LasAventurasDePinocho/OEBPS/contenido.html"},    
+                    {title: "Presentación", src:"LasAventurasDePinocho/OEBPS/presentacion.html"},    
+                    {title: "Capítulo 1", src:"LasAventurasDePinocho/OEBPS/cap01.html"},    
+                    {title: "Capítulo 2", src:"LasAventurasDePinocho/OEBPS/cap02.html"},    
+                    {title: "Capítulo 3", src:"LasAventurasDePinocho/OEBPS/cap03.html"},    
+                    {title: "Capítulo 4", src:"LasAventurasDePinocho/OEBPS/cap04.html"},    
+                    {title: "Capítulo 5", src:"LasAventurasDePinocho/OEBPS/cap05.html"},    
+                    {title: "Capitulo 6", src:"LasAventurasDePinocho/OEBPS/cap06.html"},    
+                    {title: "Capítulo 7", src:"LasAventurasDePinocho/OEBPS/cap07.html"},    
+                    {title: "Capítulo 8", src:"LasAventurasDePinocho/OEBPS/cap08.html"},    
+                    {title: "Capítulo 9", src:"LasAventurasDePinocho/OEBPS/cap09.html"},    
+                    {title: "Capítulo 10", src:"LasAventurasDePinocho/OEBPS/cap10.html"},    
+                    {title: "Capítulo 11", src:"LasAventurasDePinocho/OEBPS/cap11.html"},    
+                    {title: "Capítulo 12", src:"LasAventurasDePinocho/OEBPS/cap12.html"},    
+                    {title: "Capítulo 13", src:"LasAventurasDePinocho/OEBPS/cap13.html"},    
+                    {title: "Capítulo 14", src:"LasAventurasDePinocho/OEBPS/cap14.html"},    
+                    {title: "Capitulo 15", src:"LasAventurasDePinocho/OEBPS/cap15.html"},    
+                    {title: "Capítulo 16", src:"LasAventurasDePinocho/OEBPS/cap16.html"},    
+                    {title: "Capítulo 17", src:"LasAventurasDePinocho/OEBPS/cap17.html"},    
+                    {title: "Capítulo 18", src:"LasAventurasDePinocho/OEBPS/cap18.html"},    
+                    {title: "Capítulo 19", src:"LasAventurasDePinocho/OEBPS/cap19.html"},    
+                    {title: "Capítulo 20", src:"LasAventurasDePinocho/OEBPS/cap20.html"},    
+                    {title: "Capítulo 21", src:"LasAventurasDePinocho/OEBPS/cap21.html"},    
+                    {title: "Capítulo 22", src:"LasAventurasDePinocho/OEBPS/cap22.html"},    
+                    {title: "Capítulo 23", src:"LasAventurasDePinocho/OEBPS/cap23.html"},    
+                    {title: "Capítulo 24", src:"LasAventurasDePinocho/OEBPS/cap24.html"},    
+                    {title: "Capítulo 25", src:"LasAventurasDePinocho/OEBPS/cap25.html"},    
+                    {title: "Capitulo 26", src:"LasAventurasDePinocho/OEBPS/cap26.html"},    
+                    {title: "Capítulo 27", src:"LasAventurasDePinocho/OEBPS/cap27.html"},    
+                    {title: "Capítulo 28", src:"LasAventurasDePinocho/OEBPS/cap28.html"},    
+                    {title: "Capítulo 29", src:"LasAventurasDePinocho/OEBPS/cap29.html"},    
+                    {title: "Capítulo 30", src:"LasAventurasDePinocho/OEBPS/cap30.html"},    
+                    {title: "Capítulo 31", src:"LasAventurasDePinocho/OEBPS/cap31.html"},    
+                    {title: "Capítulo 32", src:"LasAventurasDePinocho/OEBPS/cap32.html"},    
+                    {title: "Capítulo 33", src:"LasAventurasDePinocho/OEBPS/cap33.html"},    
+                    {title: "Capítulo 34", src:"LasAventurasDePinocho/OEBPS/cap34.html"},    
+                    {title: "Capitulo 35", src:"LasAventurasDePinocho/OEBPS/cap35.html"},    
+                    {title: "Capítulo 36", src:"LasAventurasDePinocho/OEBPS/cap36.html"},    
+                    {title: "Texto Legal", src:"LasAventurasDePinocho/OEBPS/texlegal.html"}    
+                ]             
+            },
+            getComponent: function (componentId) {
+                return {url:componentId}              
+            },
+            getMetaData: function(key) {
+                return {
+                    title: "Las Aventuras De Pinocho",
+                    creator: "Libro Al Viento",
+                }[key];             
+            }
+        };
+
+
+    </script>
+</head>
+<body>
+    <div id="reader">
+        <h1>Colección Libro al Viento</h1>
+    </div>
+    <script>
+        Monocle.Events.listen(
+            window,
+            'load',
+            function () {
+                window.reader = Monocle.Reader('reader', bookData, {panels: Monocle.Panels.Marginal});
+            }
+        );
+    </script>
+    <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-40222050-1', 'idartes.gov.co');
+          ga('send', 'pageview');
+
+    </script>
+</body>
+</html>

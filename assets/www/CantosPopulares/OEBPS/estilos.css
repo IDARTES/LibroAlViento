@@ -1,0 +1,143 @@
+.cover { vertical-align: middle;
+	text-align: center;
+	height: 100%;
+	margin:0;
+	padding: 0;
+}
+
+.foto { 
+	text-align: center;
+	width: 100%;
+	max-width:600px;
+	margin:0;
+	padding: 0;
+	text-indent: 0em;
+	
+}
+
+.fotoV { 
+	text-align: center;
+	width:60%;
+	max-width:600px;
+	margin:0;
+	padding: 0;
+	text-indent: 0em;
+	margin-bottom:0;	
+}
+.fotoCen { text-align:center; text-indent: 0em; margin:0;}
+
+.vineta { 
+	text-align: center;
+	margin-top:0.6em;
+	margin-bottom:0.8em;
+	padding: 0;
+	text-indent: 0em;
+	
+}
+
+.fotoBreak { 
+	text-align: center;
+	width: 100%;
+	max-width:600px;
+	margin:0;
+	padding: 0;
+	text-indent: 0em;
+	page-break-after:always;
+	
+}
+.fotoBreakV { 
+	text-align: center;
+	height: 100%;
+	max-height:600px;
+	margin:0;
+	padding: 0;
+	text-indent: 0em;
+	page-break-after:always;
+	
+}
+
+body { margin-left: 5%; margin-right: 5%; margin-top: 5%; margin-bottom: 5%; }
+
+h1 {
+	font-size: 1.5em;
+	margin-top: 0em;
+	margin-bottom: 0em;
+	font-weight:normal;
+	line-height: 115%;
+	text-align:left;
+	font-variant:small-caps;
+}
+
+h2 {
+	font-size: 1.3em;
+	margin-top: 0em;
+	margin-bottom: 2em;
+	margin-left:0;
+	color: #666;
+	font-weight: normal;
+	font-style: normal;
+	text-align:left;
+	text-indent:0;
+	font-style:italic;
+}
+
+h3 {
+	font-size: 1.1em;
+	font-weight: normal;
+	font-style: normal;
+	text-align:left;
+	margin-top:0.5em;
+	margin-bottom:2em;
+	margin-left:0em;
+	text-indent:0;
+	font-variant:small-caps;
+}
+
+p { font-size: 1em; 
+	margin-top: 0; 
+	margin-right:0; 
+	margin-bottom: .5em; 
+	margin-left: 0; 
+	text-align:justify; 
+	text-indent: 1em; }
+	
+.primerParrafo {
+	text-indent: 0em;
+	
+}
+.poema { font-size: 1em; 
+	margin-top: 0; 
+	margin-right:0; 
+	margin-bottom: 0em; 
+	margin-left: 0; 
+	text-align:left; 
+	text-indent: 0;
+}
+.poemaInd { font-size: 1em; 
+	margin-top: 0; 
+	margin-right:0; 
+	margin-bottom: 0em; 
+	margin-left: 4em; 
+	text-align:left; 
+	text-indent: 0;
+}
+
+.breakBefore { page-break-before:always; }
+a { text-decoration: none; }
+
+.der { text-align:right;text-indent: 0em; }
+.cen { text-align:center; text-indent: 0em;}
+.autor { text-align:right; font-size:75%; text-indent: 0em; margin-top:1em; margin-bottom:1.5em}
+.piefoto { text-align:center; font-size:70%; margin-top:1em; margin-left:0; text-indent: 0em;}
+.texConte {font-size:1em; text-align:left; margin-bottom:0.1em; margin-top:0; text-indent:0; margin-left:0; font-variant:small-caps; }
+.texConte2 { text-align:left; margin-left: 1em; margin-bottom:0.1em; margin-top:0 ; text-indent: 0em; }
+.texConte3 { text-align:left; margin-left: 2em; margin-bottom:0.6em; margin-top:0 ; text-indent: 0em; font-style:italic; }
+.texVocab { text-align:left; font-size:80%; margin-bottom:3pt; margin-top:0;text-indent: 0em; }
+.castizo { text-align:left; font-size:90%; margin-bottom:0pt; margin-top:1;text-indent: 0em; }
+.asterisco{ text-align: center; color: #900; text-indent: 0em; }
+.espacio { margin-bottom:3em; text-indent: 0em; }
+.bioAutor { text-align:left; font-size:0.9em; margin-top:0; margin-left:2em; margin-right:4em; margin-bottom:0em; text-indent: 0em; }
+.epigrafe { text-align:right; font-size:0.9em; margin-top:0; text-indent: 0em; }
+.texlegal { text-align:left; font-size:65%; line-height:120%;margin-bottom:0em; text-indent: 0em; font-variant:small-caps;}
+.texlegal2 { text-align:left; font-size:65%; line-height:120%;margin-bottom:0.1em; margin-left:2em; text-indent: 0em; }
+.smallCaps{ font-variant:small-caps; }

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Colección Libro al Viento</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="css/jquery.mobile-1.3.0.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="js/jquery-1.9.1.min.js"></script>
+    <script src="js/jquery.mobile-1.3.0.js"></script>
+    <script src="js/scripts.js"></script>
+
+    <script>
+        $.mobile.ajaxEnabled=false;
+        function seleccionarLibro(item) {
+            var rutaLibro = item.rel + '.html';
+            var titulo = $(item).data('title');
+            $('#mostrar-popup h3').html(titulo);
+            $('#abrir-libro').attr('href', rutaLibro);
+        }
+    </script>
+
+</head>
+<body>
+    <div data-role="page" id="inicio">
+        <div data-role="header">
+            <h1>Colección Libro al Viento</h1>
+        </div>
+        <div data-role="content">
+            <p>Bienvenidos a la colección de Libro al Viento</p>
+            <a href="#coleccion" data-role="button" id="ver-coleccion">Ver la colección</a>
+        </div>
+        <div data-role="footer">
+            <h4>Instituto Distrital de las Artes</h4>
+        </div>
+    </div>
+    <div data-role="page" id="coleccion">
+        <div data-role="header">
+            <h1>Colección Libro al Viento</h1>
+        </div>
+        <div data-role="content">
+            <div class="lista-titulos" style="padding:5%">
+                <ul data-role="listview" data-split-icon="gear" data-split-theme="d" data-inset="true"  data-filter="true" data-filter-placeholder="Ecriba un texto para filtrar ...">
+                    <li data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="c">
+                        <a href="#">
+                            <img src="images/cover_RufinoJoseCuervo.png">
+                            <h2>Rufino José Cuervo</h2>
+                        </a>
+                        <a href="#mostrar-popup" data-rel="popup" data-position-to="window" data-transition="pop" data-title="Jose Rufino Cuervo" rel="rufino-jose-cuervo" onclick="seleccionarLibro(this)"></a>
+                    </li>
+                    <li data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="c">
+                        <a href="#">
+                            <img src="images/cover_SuenanLosAndroides.png">
+                            <h2>¿Sueñan los androides con alpacas eléctricas?</h2>
+                        </a>
+                        <a href="#mostrar-popup" data-rel="popup" data-position-to="window" data-transition="pop" data-title="¿Sueñan los androides con alpacas eléctricas?" rel="suenan-los-androides" onclick="seleccionarLibro(this)"></a>
+                    </li>
+                    <li data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="c">
+                        <a href="#">
+                            <img src="images/cover_AlgunosEspectrosOrientales.png">
+                            <h2>Algunos espectros orientales</h2>
+                        </a>
+                        <a href="#mostrar-popup" data-rel="popup" data-position-to="window" data-transition="pop" data-title="Algunos Espectros Orientales" rel="algunos-espectros-orientales" onclick="seleccionarLibro(this)"></a>
+                    </li>
+                    <li data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="c">
+                        <a href="#">
+                            <img src="images/cover_AnacondaYOtrosCuentos.png">
+                            <h2>Anaconda y otros cuentos</h2>
+                        </a>
+                        <a href="#mostrar-popup" data-rel="popup" data-position-to="window" data-transition="pop" data-title="Anaconda y otros cuentos" rel="anaconda-y-otros-cuentos" onclick="seleccionarLibro(this)"></a>
+                    </li>
+                    <li data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="c">
+                        <a href="#">
+                            <img src="images/cover_CantosPopulares.png">
+                            <h2>Cantos Populares</h2>
+                        </a>
+                        <a href="#mostrar-popup" data-rel="popup" data-position-to="window" data-transition="pop" data-title="Cantos Populares" rel="cantos-populares" onclick="seleccionarLibro(this)"></a>
+                    </li>
+                    <li data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="c">
+                        <a href="#">
+                            <img src="images/cover_ElLibroDeMarcoPolo.jpg">
+                            <h2>El Libro de Marcopolo</h2>
+                        </a>
+                        <a href="#mostrar-popup" data-rel="popup" data-position-to="window" data-transition="pop" data-title="El Libro de Marcopolo" rel="el-libro-de-marcopolo" onclick="seleccionarLibro(this)"></a>
+                    </li>
+                    <li data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="c">
+                        <a href="#">
+                            <img src="images/cover_ElPrimerAmor.png">
+                            <h2>El Primer Amor</h2>
+                        </a>
+                        <a href="#mostrar-popup" data-rel="popup" data-position-to="window" data-transition="pop" data-title="El Primer Amor" rel="el-primer-amor" onclick="seleccionarLibro(this)"></a>
+                    </li>
+                    <li data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="c">
+                        <a href="#">
+                            <img src="images/cover_FiccionesDesdeBrasil.png">
+                            <h2>Ficciones desde Brasil</h2>
+                        </a>
+                        <a href="#mostrar-popup" data-rel="popup" data-position-to="window" data-transition="pop" data-title="Ficciones desde Brasil" rel="ficciones-desde-brasil" onclick="seleccionarLibro(this)"></a>
+                    </li>
+                    <li data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="c">
+                        <a href="#">
+                            <img src="images/cover_LaEdadDeOro.png">
+                            <h2>La Edad de Oro</h2>
+                        </a>
+                        <a href="#mostrar-popup" data-rel="popup" data-position-to="window" data-transition="pop" data-title="La Edad de Oro" rel="la-edad-de-oro" onclick="seleccionarLibro(this)"></a>
+                    </li>
+                    <li data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="c">
+                        <a href="#">
+                            <img src="images/cover_LasAventurasDePinocho.png">
+                            <h2>Las Aventuras de Pinocho</h2>
+                        </a>
+                        <a href="#mostrar-popup" data-rel="popup" data-position-to="window" data-transition="pop" data-title="Las Aventuras de Pinocho" rel="las-aventuras-de-pinocho" onclick="seleccionarLibro(this)"></a>
+                    </li>
+                    <li data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="c">
+                        <a href="#">
+                            <img src="images/cover_LaVentanaAbierta.png">
+                            <h2>La ventana abierta</h2>
+                        </a>
+                        <a href="#mostrar-popup" data-rel="popup" data-position-to="window" data-transition="pop" data-title="La Ventana Abierta" rel="la-ventana-abierta" onclick="seleccionarLibro(this)"></a>
+                    </li>
+                    <li data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="c">
+                        <a href="#">
+                            <img src="images/cover_LaVidaEsSueno.png">
+                            <h2>La Vida es Sueño</h2>
+                        </a>
+                        <a href="#mostrar-popup" data-rel="popup" data-position-to="window" data-transition="pop" data-title="La Vida es Sueño" rel="la-vida-es-sueno" onclick="seleccionarLibro(this)"></a>
+                    </li>
+                    <li data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="c">
+                        <a href="#">
+                            <img src="images/cover_LazarilloDeTormes.jpg">
+                            <h2>Lazarillo de Tormes</h2>
+                        </a>
+                        <a href="#mostrar-popup" data-rel="popup" data-position-to="window" data-transition="pop" data-title="Lazarillo de Tormes" rel="lazarillo-de-tormes" onclick="seleccionarLibro(this)"></a>
+                    </li>
+                    <li data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="c">
+                        <a href="#">
+                            <img src="images/cover_PoemasIluminados.png">
+                            <h2>Poemas Iluminados</h2>
+                        </a>
+                        <a href="#mostrar-popup" data-rel="popup" data-position-to="window" data-transition="pop" data-title="Poemas Iluminados" rel="poemas-iluminados" onclick="seleccionarLibro(this)"></a>
+                    </li>
+                    <li data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="c">
+                        <a href="#">
+                            <img src="images/cover_PoesiaParaNinos.png">
+                            <h2>Poesía para Niños</h2>
+                        </a>
+                        <a href="#mostrar-popup" data-rel="popup" data-position-to="window" data-transition="pop" data-title="Poesía para Niños" rel="poesia-para-ninos" onclick="seleccionarLibro(this)"></a>
+                    </li>
+                    <li data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="c">
+                        <a href="#">
+                            <img src="images/cover_RecetarioSantafereno.png">
+                            <h2>Recetario Santafereño</h2>
+                        </a>
+                        <a href="#mostrar-popup" data-rel="popup" data-position-to="window" data-transition="pop" data-title="Recetario Santafereño" rel="recetario-santafereno" onclick="seleccionarLibro(this)"></a>
+                    </li>
+                    <li data-corners="false" data-shadow="false" data-iconshadow="true" data-wrapperels="div" data-icon="arrow-r" data-iconpos="right" data-theme="c">
+                        <a href="#">
+                            <img src="images/cover_TierraDePromision.png">
+                            <h2>Tierra de Promisión</h2>
+                        </a>
+                        <a href="#mostrar-popup" data-rel="popup" data-position-to="window" data-transition="pop" data-title="Tierra de Promisión" rel="tierra-de-promision" onclick="seleccionarLibro(this)"></a>
+                    </li>
+                </ul>
+            </div>
+            <a href="#inicio" data-role="button">Regresar al inicio</a>
+        </div>
+
+        <div id="mostrar-popup" data-role="popup" data-theme="d" data-overlay-theme="b">
+            <h3></h3>
+            <a id="abrir-libro" href="#" data-role="button" data-rel"external" data-theme="b" data-icon="check" data-inline="true" data-mini="true" data-corners="true" data-iconshadow="true" data-wrapperels="span"><span>Abrir el libro</span></a>
+            <a href="index.html#coleccion" data-role="button" data-rel="back" data-theme="c" data-icon="back" data-inline="true" data-mini="true" data-corners="true" data-iconshadow="true" data-wrapperels="span"><span>Volver a la colección</span></a>
+        </div>
+        <div data-role="footer">
+            <h4>Instituto Distrital de las Artes</h4>
+        </div>
+    </div>
+    <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-40222050-1', 'idartes.gov.co');
+          ga('send', 'pageview');
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Iván Turguéniev</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>813371A5DF4B01D763BCE3EC577746BC</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/imgs/cover.png</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>2A1005E6DE8C358B54467E48FD879A41</string>
+		<key>publisher-unique-id</key>
+		<string>9789589993545</string>
+		<key>unique-id</key>
+		<integer>4885155986118912830</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>literatura universal, ivan turgueniev, literatura juvenil, libro al viento, idartes</string>
+	<key>itemName</key>
+	<string>El primer amor</string>
+	<key>playlistName</key>
+	<string>El primer amor</string>
+	<key>releaseDate</key>
+	<string>2013-01-15</string>
+	<key>sort-artist</key>
+	<string>Turguéniev, Iván</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

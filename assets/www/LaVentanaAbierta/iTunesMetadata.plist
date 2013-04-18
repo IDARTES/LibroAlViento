@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Saki</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>3D39F6D02A314899B4BB852F86D89C5F</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/imgs/cover.png</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>26D3BDA996969F206ABF092908388871</string>
+		<key>publisher-unique-id</key>
+		<string>9588232791</string>
+		<key>unique-id</key>
+		<integer>2554841004273311925</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>libro al viento, antología cuento, literatura universal, julio paredes, Saki, Kate Chopin, Henry James, Jack London, Mark Twain, Ambrose Bierce, idartes</string>
+	<key>itemName</key>
+	<string>La ventana abierta y otros cuentos sorprendentes</string>
+	<key>playlistName</key>
+	<string>La ventana abierta y otros cuentos sorprendentes</string>
+	<key>releaseDate</key>
+	<string>2013-01-15</string>
+	<key>sort-artist</key>
+	<string>Saki</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

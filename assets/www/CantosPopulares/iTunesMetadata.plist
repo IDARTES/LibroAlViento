@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Candelario Obeso</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>B4CAC5F8533CE9F30CD354A21FF58B7B</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/imgs/cover.png</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>2849FE9704B63E3603121351C6D48E84</string>
+		<key>publisher-unique-id</key>
+		<string>9789588471112</string>
+		<key>unique-id</key>
+		<integer>1626486109229439558</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>cantos populares de mi tierra, candelario obeso, literatura colombiana, libro al viento, literatura afrocolombiana, secretaría de cultura bogotá, cultura colombiana</string>
+	<key>itemName</key>
+	<string>Cantos populares de mi tierra</string>
+	<key>playlistName</key>
+	<string>Cantos populares de mi tierra</string>
+	<key>releaseDate</key>
+	<string>2013-01-20</string>
+	<key>sort-artist</key>
+	<string>Obeso, Candelario</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

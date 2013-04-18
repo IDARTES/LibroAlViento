@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>¿Sueñan los Androides con Alpacas Eléctricas?</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script src="js/monocore.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/monocore.css" />
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+
+        #reader {
+            min-height: 100%;
+        }
+    </style>
+    
+    <script type="text/javascript">
+        var bookData = {
+            getComponents: function () {
+                return [
+                    'SuenanLosAndroides/OEBPS/cover.html',
+                    'SuenanLosAndroides/OEBPS/portada.html',
+                    'SuenanLosAndroides/OEBPS/portadilla.html',
+                    'SuenanLosAndroides/OEBPS/portada2.html',
+                    'SuenanLosAndroides/OEBPS/contenido.html',
+                    'SuenanLosAndroides/OEBPS/presentacion.html',
+                    'SuenanLosAndroides/OEBPS/cap01.html',
+                    'SuenanLosAndroides/OEBPS/cap02.html',
+                    'SuenanLosAndroides/OEBPS/cap03.html',
+                    'SuenanLosAndroides/OEBPS/cap04.html',
+                    'SuenanLosAndroides/OEBPS/cap05.html',
+                    'SuenanLosAndroides/OEBPS/cap06.html',
+                    'SuenanLosAndroides/OEBPS/texlegal.html'
+                    
+                    ];
+            },
+            getContents: function () {
+                return [
+                    {title: "Cover", src:"SuenanLosAndroides/OEBPS/cover.html"},    
+                    {title: "Portada", src:"SuenanLosAndroides/OEBPS/portada.html"},    
+                    {title: "Portada", src:"SuenanLosAndroides/OEBPS/portadilla.html"},    
+                    {title: "Portada2", src:"SuenanLosAndroides/OEBPS/portada2.html"},    
+                    {title: "Contenido", src:"SuenanLosAndroides/OEBPS/contenido.html"},    
+                    {title: "Presentación", src:"SuenanLosAndroides/OEBPS/presentacion.html"},    
+                    {title: "Capítulo 1", src:"SuenanLosAndroides/OEBPS/cap01.html"},    
+                    {title: "Capítulo 2", src:"SuenanLosAndroides/OEBPS/cap02.html"},    
+                    {title: "Capítulo 3", src:"SuenanLosAndroides/OEBPS/cap03.html"},    
+                    {title: "Capítulo 4", src:"SuenanLosAndroides/OEBPS/cap04.html"},    
+                    {title: "Capítulo 5", src:"SuenanLosAndroides/OEBPS/cap05.html"},    
+                    {title: "Capitulo 6", src:"SuenanLosAndroides/OEBPS/cap06.html"},    
+                    {title: "Texto Legal", src:"SuenanLosAndroides/OEBPS/texlegal.html"}    
+                ]             
+            },
+            getComponent: function (componentId) {
+                return {url:componentId}              
+            },
+            getMetaData: function(key) {
+                return {
+                    title: "¿Sueñan los Androides con Alpacas Eléctricas?",
+                    creator: "Libro Al Viento",
+                }[key];             
+            }
+        };
+
+
+    </script>
+</head>
+<body>
+    <div id="reader">
+        <h1>Colección Libro al Viento</h1>
+    </div>
+    <script>
+        Monocle.Events.listen(
+            window,
+            'load',
+            function () {
+                window.reader = Monocle.Reader('reader', bookData, {panels: Monocle.Panels.Marginal});
+            }
+        );
+    </script>
+    <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-40222050-1', 'idartes.gov.co');
+          ga('send', 'pageview');
+
+    </script>
+</body>
+</html>

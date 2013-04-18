@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>La Ventana Abierta</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script src="js/monocore.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/monocore.css" />
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+
+        #reader {
+            min-height: 100%;
+        }
+    </style>
+    
+    <script type="text/javascript">
+        var bookData = {
+            getComponents: function () {
+                return [
+                    'LaVentanaAbierta/OEBPS/cover.html',
+                    'LaVentanaAbierta/OEBPS/portada.html',
+                    'LaVentanaAbierta/OEBPS/portadilla.html',
+                    'LaVentanaAbierta/OEBPS/portada2.html',
+                    'LaVentanaAbierta/OEBPS/contenido.html',
+                    'LaVentanaAbierta/OEBPS/presentacion.html',
+                    'LaVentanaAbierta/OEBPS/cap01.html',
+                    'LaVentanaAbierta/OEBPS/cap02.html',
+                    'LaVentanaAbierta/OEBPS/cap03.html',
+                    'LaVentanaAbierta/OEBPS/cap04.html',
+                    'LaVentanaAbierta/OEBPS/cap05.html',
+                    'LaVentanaAbierta/OEBPS/cap06.html',
+                    'LaVentanaAbierta/OEBPS/texlegal.html'
+                    
+                    ];
+            },
+            getContents: function () {
+                return [
+                    {title: "Cover", src:"LaVentanaAbierta/OEBPS/cover.html"},    
+                    {title: "Portada", src:"LaVentanaAbierta/OEBPS/portada.html"},    
+                    {title: "Portada", src:"LaVentanaAbierta/OEBPS/portadilla.html"},    
+                    {title: "Portada2", src:"LaVentanaAbierta/OEBPS/portada2.html"},    
+                    {title: "Contenido", src:"LaVentanaAbierta/OEBPS/contenido.html"},    
+                    {title: "Presentación", src:"LaVentanaAbierta/OEBPS/presentacion.html"},    
+                    {title: "Capítulo 1", src:"LaVentanaAbierta/OEBPS/cap01.html"},    
+                    {title: "Capítulo 2", src:"LaVentanaAbierta/OEBPS/cap02.html"},    
+                    {title: "Capítulo 3", src:"LaVentanaAbierta/OEBPS/cap03.html"},    
+                    {title: "Capítulo 4", src:"LaVentanaAbierta/OEBPS/cap04.html"},    
+                    {title: "Capítulo 5", src:"LaVentanaAbierta/OEBPS/cap05.html"},    
+                    {title: "Capitulo 6", src:"LaVentanaAbierta/OEBPS/cap06.html"},    
+                    {title: "Texto Legal", src:"LaVentanaAbierta/OEBPS/texlegal.html"}    
+                ]             
+            },
+            getComponent: function (componentId) {
+                return {url:componentId}              
+            },
+            getMetaData: function(key) {
+                return {
+                    title: "La Ventana Abierta",
+                    creator: "Libro Al Viento",
+                }[key];             
+            }
+        };
+
+
+    </script>
+</head>
+<body>
+    <div id="reader">
+        <h1>Colección Libro al Viento</h1>
+    </div>
+    <script>
+        Monocle.Events.listen(
+            window,
+            'load',
+            function () {
+                window.reader = Monocle.Reader('reader', bookData, {panels: Monocle.Panels.Marginal});
+            }
+        );
+    </script>
+    <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-40222050-1', 'idartes.gov.co');
+          ga('send', 'pageview');
+
+    </script>
+</body>
+</html>

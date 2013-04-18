@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<dc:title>Anaconda y otros cuentos</dc:title>
+	<dc:creator opf:role="aut" opf:file-as="Quiroga, Horacio">Horacio Quiroga</dc:creator>
+	<dc:publisher>Instituto Distrital de las Artes – Idartes</dc:publisher>
+	<dc:rights>Copyright Instituto Distrital de las Artes – idartes ©2012</dc:rights>
+	<dc:identifier id="BookId">9789588471464</dc:identifier>
+	<dc:language>es</dc:language>
+	
+	<dc:subject>libro al viento, cuento, literatura uruguaya, horacio quiroga, julio paredes, idartes</dc:subject>
+      <dc:description>Lector apasionado de varios maestros clásicos del género (Edgar Allan Poe, Anton Chéjov, Guy de Maupassant, Jack London o Rudyard Kipling) Quiroga aplicó algunas de sus propuestas teóricas a gran parte de su producción literaria, con más de doscientos cuentos escritos. De esa amplia y variadísima producción hemos seleccionado para el lector de Libro al viento nueve relatos, agrupados en esta particular antología con el título de Anaconda y otros cuentos: "El almohadón de pluma", "El alambre de púa", "Anaconda", "En la noche", "Juan Darién", "El regreso de Anaconda", "El hombre muerto", "El desierto" y "De caza". En un nuevo repaso y desde una perspectiva contemporánea, los preceptos dictados por Quiroga comparten en general una sencillez admirable, a veces engañosa, y apuntan siempre con claridad hacia los atributos básicos para que el escritor en ciernes descifre y reconozca la esencia de un buen cuento.</dc:description>
+      <dc:date>2013-01-20</dc:date>
+	  <dc:contributor opf:role="aut" opf:file-as="Quiroga, Horacio">Horacio Quiroga</dc:contributor>
+	<dc:contributor opf:role="aui" opf:file-as="Paredes Castro, Julio">Julio Paredes Castro</dc:contributor>
+	<dc:contributor opf:role="ill" opf:file-as="Benavides Carmona, Iván A.">Iván A. Benavides Carmona</dc:contributor>
+	  
+	<meta name="cover" content="cover-image"/>
+</metadata>
+
+<manifest>
+	<item id="cover" href="cover.xml" media-type="application/xhtml+xml"/>
+	<item id="cover-image" href="imgs/cover.png" media-type="image/png"/>
+	<item id="portada" href="portada.xml" media-type="application/xhtml+xml"/>
+	<item id="portada2" href="portada2.xml" media-type="application/xhtml+xml"/>
+	<item id="fportada" href="imgs/portada.png" media-type="image/png"/>
+	<item id="fportada2" href="imgs/portada2.png" media-type="image/png"/>
+	<item id="portadilla" href="portadilla.xml" media-type="application/xhtml+xml"/>
+	<item id="fportadilla" href="imgs/portadilla.png" media-type="image/png"/>
+	<item id="style" href="estilos.css" media-type="text/css"/>
+	<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>	
+	<item id="texlegal" href="texlegal.html" media-type="application/xhtml+xml"/>
+	<item id="contenido" href="contenido.html" media-type="application/xhtml+xml"/>
+	<item id="presentacion" href="presentacion.html" media-type="application/xhtml+xml"/>
+	<item id="cap01" href="cap01.html" media-type="application/xhtml+xml"/>
+	<item id="cap02" href="cap02.html" media-type="application/xhtml+xml"/>
+	<item id="cap03" href="cap03.html" media-type="application/xhtml+xml"/>
+	<item id="cap04" href="cap04.html" media-type="application/xhtml+xml"/>
+	<item id="cap05" href="cap05.html" media-type="application/xhtml+xml"/>
+	<item id="cap06" href="cap06.html" media-type="application/xhtml+xml"/>
+	<item id="cap07" href="cap07.html" media-type="application/xhtml+xml"/>
+	<item id="cap08" href="cap08.html" media-type="application/xhtml+xml"/>
+	<item id="cap09" href="cap09.html" media-type="application/xhtml+xml"/>
+	
+	<item id="f01" href="imgs/f01.png" media-type="image/png"/>
+	<item id="f02" href="imgs/f02.png" media-type="image/png"/>
+	<item id="f03" href="imgs/f03.png" media-type="image/png"/>
+	<item id="f04" href="imgs/f04.png" media-type="image/png"/>
+	<item id="f05" href="imgs/f05.png" media-type="image/png"/>
+	<item id="f06" href="imgs/f06.png" media-type="image/png"/>
+	<item id="f07" href="imgs/f07.png" media-type="image/png"/>
+	<item id="f08" href="imgs/f08.png" media-type="image/png"/>
+	<item id="f09" href="imgs/f09.png" media-type="image/png"/>
+	<item id="f10" href="imgs/f10.png" media-type="image/png"/>
+	<item id="f11" href="imgs/f11.png" media-type="image/png"/>
+	<item id="f12" href="imgs/f12.png" media-type="image/png"/>
+	<item id="f13" href="imgs/f13.png" media-type="image/png"/>
+	<item id="f14" href="imgs/f14.png" media-type="image/png"/>
+	<item id="f15" href="imgs/f15.png" media-type="image/png"/>
+	<item id="f16" href="imgs/f16.png" media-type="image/png"/>
+	<item id="f17" href="imgs/f17.png" media-type="image/png"/>
+	<item id="f18" href="imgs/f18.png" media-type="image/png"/>
+	<item id="f19" href="imgs/f19.png" media-type="image/png"/>
+	<item id="f20" href="imgs/f20.png" media-type="image/png"/>
+	<item id="f21" href="imgs/f21.png" media-type="image/png"/>
+	<item id="f22" href="imgs/f22.png" media-type="image/png"/>
+	<item id="f23" href="imgs/f23.png" media-type="image/png"/>
+	<item id="f24" href="imgs/f24.png" media-type="image/png"/>
+	<item id="f25" href="imgs/f25.png" media-type="image/png"/>
+	<item id="f26" href="imgs/f26.png" media-type="image/png"/>
+	<item id="f27" href="imgs/f27.png" media-type="image/png"/>
+	<item id="f28" href="imgs/f28.png" media-type="image/png"/>
+	<item id="f29" href="imgs/f29.png" media-type="image/png"/>
+	<item id="f30" href="imgs/f30.png" media-type="image/png"/>
+	<item id="f31" href="imgs/f31.png" media-type="image/png"/>
+	<item id="f32" href="imgs/f32.png" media-type="image/png"/>
+	<item id="f33" href="imgs/f33.png" media-type="image/png"/>
+	<item id="f34" href="imgs/f34.png" media-type="image/png"/>
+	<item id="f35" href="imgs/f35.png" media-type="image/png"/>
+	<item id="f36" href="imgs/f36.png" media-type="image/png"/>
+	<item id="f37" href="imgs/f37.png" media-type="image/png"/>
+	<item id="f38" href="imgs/f38.png" media-type="image/png"/>
+	<item id="f39" href="imgs/f39.png" media-type="image/png"/>
+	<item id="f40" href="imgs/f40.png" media-type="image/png"/>
+</manifest>
+
+<spine toc="ncx">
+	<itemref linear="yes" idref="cover" />
+	<itemref linear="yes" idref="portada"/>
+	<itemref linear="yes" idref="portada2"/>
+	<itemref linear="yes" idref="texlegal"/>
+	<itemref linear="yes" idref="contenido"/>
+	<itemref linear="yes" idref="presentacion"/>
+	<itemref linear="yes" idref="portadilla"/>
+	<itemref linear="yes" idref="cap01"/>
+	<itemref linear="yes" idref="cap02"/>	
+	<itemref linear="yes" idref="cap03"/>	
+	<itemref linear="yes" idref="cap04"/>
+	<itemref linear="yes" idref="cap05"/>
+	<itemref linear="yes" idref="cap06"/>
+	<itemref linear="yes" idref="cap07"/>
+	<itemref linear="yes" idref="cap08"/>
+	<itemref linear="yes" idref="cap09"/>						
+</spine>
+
+<guide>
+	<reference type="cover" title="Anaconda y otros cuentos" href="cover.xml"/>
+	<reference type="other.reader-start-page" title="Libro al viento, Anaconda y otros cuentos" href="portada.xml"/>
+	<reference type="title-page" title="Anaconda y otros cuentos, portada" href="portada2.xml"/>
+	<reference type="copyright-page" title="Créditos" href="texlegal.html"/>
+	<reference type="toc" title="Contenido" href="contenido.html"/>
+	<reference type="foreword" title="Introducción" href="presentacion.html"/>
+	<reference type="other.portadilla" title="Anaconda y otros cuentos, portadilla" href="portadilla.xml"/>
+	<reference type="text" title="El almohadón de pluma" href="cap01.html"/>
+	<reference type="other.cap02" title="El alambre de púa" href="cap02.html"/>
+	<reference type="other.cap03" title="Anaconda" href="cap03.html"/>
+	<reference type="other.cap04" title="En la noche" href="cap04.html"/>
+	<reference type="other.cap05" title="Juan Darién" href="cap05.html"/>
+	<reference type="other.cap06" title="El regreso de Anaconda" href="cap06.html"/>
+	<reference type="other.cap07" title="El hombre muerto" href="cap07.html"/>
+	<reference type="other.cap08" title="El desierto" href="cap08.html"/>
+	<reference type="other.cap09" title="De caza" href="cap09.html"/>
+</guide>
+</package>

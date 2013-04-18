@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<dc:title>¿Sueñan los androides con alpacas eléctricas?, ficciones de Latinoamérica</dc:title>
+	<dc:creator opf:role="aut" opf:file-as="Aristizábal Gáfaro, Jorge">Jorge Aristizábal Gáfaro</dc:creator>
+	<dc:creator opf:role="aut" opf:file-as="Lage, Jorge Enrique">Jorge Enrique Lage</dc:creator>
+	<dc:creator opf:role="aut" opf:file-as="Fernández, Bernardo">Bernardo Fernández</dc:creator>
+	<dc:creator opf:role="aut" opf:file-as="Urriola, José">José Urriola</dc:creator>
+	<dc:creator opf:role="aut" opf:file-as="Mairal, Pedro">Pedro Mairal</dc:creator>
+	<dc:creator opf:role="aut" opf:file-as="Yushimito, Carlos">Carlos Yushimito</dc:creator>
+
+	<dc:publisher>Instituto Distrital de las Artes – Idartes</dc:publisher>
+	<dc:rights>Instituto Distrital de las Artes – Idartes ©2012</dc:rights>
+	<dc:identifier id="BookId">9789585731783</dc:identifier>
+	<dc:language>es</dc:language>
+	
+	<dc:subject>ciencia ficción, literatura latinoamericana, libro al viento</dc:subject>
+      <dc:description>Esperamos que, antes de que los alienígenas se tomen la Tierra, los humanos se fabriquen en serie, un meteorito acabe con el planeta, una droga sintética reemplace los sentimientos, casi la mitad de la población urbana esté presa o nuestra soledad sea mitigada por un robot, puedan ustedes disfrutar de estas buenas páginas.</dc:description>
+      <dc:date>2012-12-10</dc:date>
+	  <dc:contributor opf:role="aut" opf:file-as="Aristizábal Gáfaro, Jorge">Jorge Aristizábal Gáfaro</dc:contributor>
+	<dc:contributor opf:role="aut" opf:file-as="Lage, Jorge Enrique">Jorge Enrique Lage</dc:contributor>
+	<dc:contributor opf:role="aut" opf:file-as="Fernández, Bernardo">Bernardo Fernández</dc:contributor>
+	<dc:contributor opf:role="aut" opf:file-as="Urriola, José">José Urriola</dc:contributor>
+	<dc:contributor opf:role="aut" opf:file-as="Mairal, Pedro">Pedro Mairal</dc:contributor>
+	<dc:contributor opf:role="aut" opf:file-as="Yushimito, Carlos">Carlos Yushimito</dc:contributor>
+	<dc:contributor opf:role="aui" opf:file-as="García Ángel, Antonio">Antonio García Ángel</dc:contributor>
+	  
+	<meta name="cover" content="cover-image"/>
+</metadata>
+
+<manifest>
+	<item id="cover" href="cover.xml" media-type="application/xhtml+xml"/>
+	<item id="cover-image" href="imgs/cover.png" media-type="image/png"/>
+	<item id="portada" href="portada.xml" media-type="application/xhtml+xml"/>
+	<item id="fportada" href="imgs/portada.png" media-type="image/png"/>
+	<item id="portada2" href="portada2.xml" media-type="application/xhtml+xml"/>
+	<item id="fportada2" href="imgs/portada2.png" media-type="image/png"/>
+	<item id="style" href="estilos.css" media-type="text/css"/>
+	<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>	
+	<item id="texlegal" href="texlegal.html" media-type="application/xhtml+xml"/>
+	
+	<item id="contenido" href="contenido.html" media-type="application/xhtml+xml"/>
+	<item id="portadilla" href="portadilla.xml" media-type="application/xhtml+xml"/>
+	<item id="fportadilla" href="imgs/portadilla.png" media-type="image/png"/>
+	<item id="presentacion" href="presentacion.html" media-type="application/xhtml+xml"/>
+	<item id="cap01" href="cap01.html" media-type="application/xhtml+xml"/>
+	<item id="cap02" href="cap02.html" media-type="application/xhtml+xml"/>
+	<item id="cap03" href="cap03.html" media-type="application/xhtml+xml"/>
+	<item id="cap04" href="cap04.html" media-type="application/xhtml+xml"/>
+	<item id="cap05" href="cap05.html" media-type="application/xhtml+xml"/>
+	<item id="cap06" href="cap06.html" media-type="application/xhtml+xml"/>
+</manifest>
+
+<spine toc="ncx">
+	<itemref linear="yes" idref="cover" />
+	<itemref linear="yes" idref="portada"/>
+	<itemref linear="yes" idref="portada2"/>
+	<itemref linear="yes" idref="texlegal"/>
+	<itemref linear="yes" idref="contenido"/>
+	<itemref linear="yes" idref="presentacion"/>
+	<itemref linear="yes" idref="portadilla"/>
+	<itemref linear="yes" idref="cap01"/>
+	<itemref linear="yes" idref="cap02"/>	
+	<itemref linear="yes" idref="cap03"/>	
+	<itemref linear="yes" idref="cap04"/>
+	<itemref linear="yes" idref="cap05"/>
+	<itemref linear="yes" idref="cap06"/>			
+</spine>
+
+<guide>
+	<reference type="cover" title="¿Sueñan los androides con alpacas eléctricas?" href="cover.xml"/>
+	<reference type="other.reader-start-page" title="Libro al viento" href="portada.xml"/>
+	<reference type="title-page" title="¿Sueñan los androides con alpacas eléctricas?, portada" href="portada2.xml"/>
+	<reference type="copyright-page" title="Créditos" href="texlegal.html"/>
+	<reference type="toc" title="Contenido" href="contenido.html"/>
+	<reference type="foreword" title="Presentación" href="presentacion.html"/>
+	<reference type="other.portadilla" title="¿Sueñan los androides con alpacas eléctricas?, portadilla" href="portadilla.xml"/>
+	<reference type="text" title="La delación" href="cap01.html"/>
+	<reference type="other.cap02" title="Straight" href="cap02.html"/>
+	<reference type="other.cap03" title="Las últimas horas de los últimos días" href="cap03.html"/>
+	<reference type="other.cap04" title="La droga" href="cap04.html"/>
+	<reference type="other.cap05" title="Recuerdo del 2030" href="cap05.html"/>
+	<reference type="other.cap06" title="Oz" href="cap06.html"/>
+</guide>
+</package>

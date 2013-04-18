@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<dc:title>Lazarillo de Tormes</dc:title>
+	<dc:creator opf:role="aut" opf:file-as="Anónimo">Anónimo</dc:creator>
+	<dc:publisher>Instituto Distrital de las Artes – Idartes</dc:publisher>
+	<dc:rights>Instituto Distrital de las Artes – Idartes ©2012</dc:rights>
+	<dc:identifier id="BookId">9789585731776</dc:identifier>
+	<dc:language>es</dc:language>
+	
+	<dc:subject>literatura española, novela picaresca, libro al viento, idartes, literatura universal, crítica social</dc:subject>
+      <dc:description>En los dos mil años de literatura occidental no se había escrito otro libro como ese Lazarillo [...], porque ninguno había tratado nunca antes a un personaje de la pobre categoría de Lázaro con una atención [...] tan limpiamente centrada en la materialidad y en las minucias de la existencia.</dc:description>
+      <dc:date>2012-12-05</dc:date>
+	  <dc:contributor opf:role="aut" opf:file-as="Anónimo">Anónimo</dc:contributor>
+	  <dc:contributor opf:role="aui" opf:file-as="García Ángel, Antonio">Antonio García Ángel</dc:contributor>
+	  
+	<meta name="cover" content="cover-image"/>
+</metadata>
+
+<manifest>
+	<item id="cover" href="cover.xml" media-type="application/xhtml+xml"/>
+	<item id="cover-image" href="imgs/cover.png" media-type="image/png"/>
+	<item id="portada" href="portada.xml" media-type="application/xhtml+xml"/>
+	<item id="fportada" href="imgs/portada.png" media-type="image/png"/>
+	<item id="portada2" href="portada2.xml" media-type="application/xhtml+xml"/>
+	<item id="fportada2" href="imgs/portada2.png" media-type="image/png"/>
+	<item id="style" href="estilos.css" media-type="text/css"/>
+	<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>	
+	<item id="texlegal" href="texlegal.html" media-type="application/xhtml+xml"/>
+	
+	<item id="contenido" href="contenido.html" media-type="application/xhtml+xml"/>
+	<item id="portadilla" href="portadilla.xml" media-type="application/xhtml+xml"/>
+	<item id="fportadilla" href="imgs/portadilla.png" media-type="image/png"/>
+	<item id="presentacion" href="presentacion.html" media-type="application/xhtml+xml"/>
+	<item id="cap01" href="cap01.html" media-type="application/xhtml+xml"/>
+	<item id="cap02" href="cap02.html" media-type="application/xhtml+xml"/>
+	<item id="cap03" href="cap03.html" media-type="application/xhtml+xml"/>
+	<item id="cap04" href="cap04.html" media-type="application/xhtml+xml"/>
+	<item id="cap05" href="cap05.html" media-type="application/xhtml+xml"/>
+	<item id="cap06" href="cap06.html" media-type="application/xhtml+xml"/>
+	<item id="cap07" href="cap07.html" media-type="application/xhtml+xml"/>
+	<item id="cap08" href="cap08.html" media-type="application/xhtml+xml"/>
+	
+	<item id="f01" href="imgs/f01.png" media-type="image/png"/>
+	<item id="f02" href="imgs/f02.png" media-type="image/png"/>
+	<item id="f03" href="imgs/f03.png" media-type="image/png"/>
+
+</manifest>
+
+<spine toc="ncx">
+	<itemref linear="yes" idref="cover" />
+	<itemref linear="yes" idref="portada"/>
+	<itemref linear="yes" idref="portada2"/>
+	<itemref linear="yes" idref="texlegal"/>
+	<itemref linear="yes" idref="contenido"/>
+	<itemref linear="yes" idref="presentacion"/>
+	<itemref linear="yes" idref="portadilla"/>
+	<itemref linear="yes" idref="cap01"/>
+	<itemref linear="yes" idref="cap02"/>	
+	<itemref linear="yes" idref="cap03"/>	
+	<itemref linear="yes" idref="cap04"/>
+	<itemref linear="yes" idref="cap05"/>
+	<itemref linear="yes" idref="cap06"/>	
+	<itemref linear="yes" idref="cap07"/>	
+	<itemref linear="yes" idref="cap08"/>		
+</spine>
+
+<guide>
+	<reference type="cover" title="Lazarillo de Tormes" href="cover.xml"/>
+	<reference type="other.reader-start-page" title="Libro al viento" href="portada.xml"/>
+	<reference type="title-page" title="Lazarillo de Tormes, portada" href="portada2.xml"/>
+	<reference type="copyright-page" title="Créditos" href="texlegal.html"/>
+	<reference type="toc" title="Contenido" href="contenido.html"/>
+	<reference type="foreword" title="Presentación" href="presentacion.html"/>
+	<reference type="foreword" title="Lazarillo de Tormes, portadilla" href="portadilla.xml"/>
+	<reference type="text" title="Prólogo" href="cap01.html"/>
+	<reference type="other.cap02" title="Tratado primero" href="cap02.html"/>
+	<reference type="other.cap03" title="Tratado segundo" href="cap03.html"/>
+	<reference type="other.cap04" title="Tratado tercero" href="cap04.html"/>
+	<reference type="other.cap05" title="Tratado cuarto" href="cap05.html"/>
+	<reference type="other.cap06" title="Tratado quinto" href="cap06.html"/>
+	<reference type="other.cap07" title="Tratado sexto" href="cap07.html"/>
+	<reference type="other.cap08" title="Tratado séptimo" href="cap08.html"/>
+</guide>
+</package>

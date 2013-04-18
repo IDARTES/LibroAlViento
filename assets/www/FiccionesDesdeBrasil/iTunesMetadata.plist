@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Joaquim María Machado de Assís</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>6ABB44062B8F11E2B20B5A79FAB59D2A</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/imgs/cover.png</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>9AC2DD44E26A53EEBAA898BC31F25291</string>
+		<key>publisher-unique-id</key>
+		<string>9789589993590</string>
+		<key>unique-id</key>
+		<integer>-1595716980616072345</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>ficciones desde brasil, libro al viento, antología cuento brasil, literatura brasilera, julio paredes, machado de assis, lima barreto, lispector, dalton trevisan, colasanti, lunardi, idartes</string>
+	<key>itemName</key>
+	<string>Ficções - Ficciones desde Brasil</string>
+	<key>playlistName</key>
+	<string>Ficções - Ficciones desde Brasil</string>
+	<key>releaseDate</key>
+	<string>2013-01-15</string>
+	<key>sort-artist</key>
+	<string>Machado de Assís, Joaquim María</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

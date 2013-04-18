@@ -1,0 +1,177 @@
+.cover { vertical-align: middle;
+	text-align: center;
+	height: 100%;
+	margin:0;
+	padding: 0;
+}
+
+.fotoCen { text-align:center; text-indent: 0em; margin:0;}
+
+.imgPag { 
+	text-align: center;
+	height: 87%;
+	max-height:500px;
+	margin:0;
+	padding: 0;
+	text-indent: 0em;
+	
+}
+
+.imgV { 
+	text-align: center;
+	width: 40%;
+	max-width:300px;
+	margin:0;
+	padding: 0;
+	text-indent: 0em;
+	
+}
+
+.imgH { 
+	text-align: center;
+	width: 250px;
+	max-width:420px;
+	margin:0;
+	padding: 0;
+	text-indent: 0em;
+	
+}
+
+.imgLadillo { 
+	text-align: center;
+	width: 90%;
+	max-width:99%;
+	margin:0;
+	padding: 0;
+	text-indent: 0em;
+	
+}
+
+.foto_FloatRight {
+	width:38%;
+	margin:0em 0 1em 0;
+	float:right !important;
+}
+
+.foto_FloatLeft {
+	width:38%;
+	margin:0em 1em 0em 0em;
+	float:left !important;
+}
+
+.foto_FloatCenter {
+	width:100%;
+	margin:0.2em 0 0.2em 0;
+	text-align: center;
+}
+.foto_FloatPagina {
+	vertical-align: middle;
+	text-align: center;
+	height: 90%;
+	margin:0;
+	padding: 0;
+	page-break-after:always;
+}
+
+.fotoTabla { padding:0.1em 0 01.1em 0; text-align: center; width: 100%; }
+
+.vineta { 
+	text-align: center;
+	margin-top:0.6em;
+	margin-bottom:0.8em;
+	padding: 0;
+	text-indent: 0em;
+	
+}
+
+.fotoBreak { 
+	text-align: center;
+	width: 100%;
+	max-width:600px;
+	margin:0;
+	padding: 0;
+	text-indent: 0em;
+	page-break-after:always;
+	
+}
+.fotoBreakV { 
+	text-align: center;
+	height: 100%;
+	max-height:600px;
+	margin:0;
+	padding: 0;
+	text-indent: 0em;
+	page-break-after:always;
+	
+}
+
+body { margin-left: 5%; margin-right: 5%; margin-top: 5%; margin-bottom: 5%; }
+
+h1 {
+	font-size: 1.7em;
+	margin-top: 1em;
+	margin-bottom: 1.7em;
+	font-weight:normal;
+	line-height: 105%;
+	text-align:center;
+}
+
+h2 {
+	font-size: 1.4em;
+	margin-top: 0em;
+	margin-bottom: 0em;
+	margin-left:0;
+	color: #666;
+	font-weight: normal;
+	font-style: normal;
+	text-align:left;
+	text-indent:0;
+}
+
+h3 {
+	font-size: 1.1em;
+	font-weight: normal;
+	font-style: normal;
+	text-align:left;
+	margin-top:0em;
+	margin-bottom:0.8em;
+	text-indent:0;
+	font-variant:small-caps;
+}
+
+p { font-size: 1em; 
+	margin-top: 0; 
+	margin-right:0; 
+	margin-bottom: .5em; 
+	margin-left: 0; 
+	text-align:justify; 
+	text-indent: 1em; }
+	
+.primerParrafo {
+	text-indent: 0em;
+	
+}
+a { text-decoration: none; }
+
+.der { text-align:right;text-indent: 0em; }
+.cen { text-align:center; text-indent: 0em;}
+.autor { text-align:right; font-size:75%; margin-top:0; text-indent: 0em; margin-top:1.7em;}
+.piefoto { text-align:center; font-size:80%; margin-top:0em; margin-left:0; text-indent: 0em; font-style:italic;}
+.texConte {font-size:0.9em; text-align:left; margin-bottom:0.1em; margin-top:0; text-indent:0; margin-left:0; font-variant:small-caps; }
+.texConte2 { text-align:left; margin-left: 1em; margin-bottom:0.9em; margin-top:0 ; text-indent: 0em; }
+.texVocab { text-align:left; font-size:80%; margin-bottom:3pt; margin-top:0;text-indent: 0em; }
+.asterisco{ text-align: center; color: #900; text-indent: 0em; }
+.espacio { margin-bottom:3em; text-indent: 0em; }
+.bioAutor { text-align:left; font-size:0.9em; margin-top:0; margin-left:2em; margin-right:4em; margin-bottom:0em; text-indent: 0em; }
+.epigrafe { text-align:right; font-size:0.9em; margin-top:0; text-indent: 0em; }
+.texlegal { text-align:left; font-size:65%; line-height:120%;margin-bottom:0em; text-indent: 0em; font-variant:small-caps;}
+.texlegal2 { text-align:left; font-size:65%; line-height:120%;margin-bottom:0.1em; margin-left:2em; text-indent: 0em; }
+.smallCaps{ font-variant:small-caps; }
+
+.afiche { font-size: 0.9em; 
+	margin-top: 0; 
+	margin-right:0; 
+	margin-bottom: 0; 
+	margin-left: 0; 
+	text-align:center; 
+	text-indent: 0; }

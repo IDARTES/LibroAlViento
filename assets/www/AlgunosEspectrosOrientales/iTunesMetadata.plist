@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Lafcadio Hearn</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>DD99ACB47F875555E9F6680BD4BDEA12</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/imgs/cover.png</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>8F1D25CD57C3BBE4451046978835B9A3</string>
+		<key>publisher-unique-id</key>
+		<string>9789589993583</string>
+		<key>unique-id</key>
+		<integer>7991416252323007181</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>lafcadio hearn, cuentos de fantasmas, literatura oriental, literatura universal, libro al viento, idartes, espectros orientales, yakumo koizumi</string>
+	<key>itemName</key>
+	<string>Algunos espectros orientales</string>
+	<key>playlistName</key>
+	<string>Algunos espectros orientales</string>
+	<key>releaseDate</key>
+	<string>2012-12-20</string>
+	<key>sort-artist</key>
+	<string>Hearn, Lafcadio</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

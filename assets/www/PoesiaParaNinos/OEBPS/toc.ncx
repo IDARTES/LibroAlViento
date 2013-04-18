@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+<head>
+<meta name="dtb:uid" content="BookId"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+
+<docTitle><text>Poesía para niños</text></docTitle>
+<docAuthor><text>Idartes</text></docAuthor>
+<navMap>
+	<navPoint playOrder="1" id="navPoint-1">
+		<navLabel><text>Cubierta</text></navLabel>
+		<content src="cover.xml"/>
+	</navPoint>
+	<navPoint playOrder="2" id="navPoint-2">
+		<navLabel><text>Libro al viento</text></navLabel>
+		<content src="portada.xml"/>
+	</navPoint>	
+	<navPoint playOrder="3" id="navPoint-3">
+		<navLabel><text>Poesía para niños, portada</text></navLabel>
+		<content src="portada2.xml"/>
+	</navPoint>
+	<navPoint playOrder="4" id="navPoint-4">
+		<navLabel><text>Créditos</text></navLabel>
+		<content src="texlegal.html"/>
+	</navPoint>
+	<navPoint playOrder="5" id="navPoint-5">
+		<navLabel><text>Contenido</text></navLabel>
+		<content src="contenido.html"/>
+	</navPoint>
+	<navPoint playOrder="6" id="navPoint-6">
+		<navLabel><text>Introducción</text></navLabel>
+		<content src="presentacion.html"/>
+	</navPoint>
+	<navPoint playOrder="7" id="navPoint-7">
+		<navLabel><text>Poesía para niños, portadilla</text></navLabel>
+		<content src="portadilla.xml"/>
+	</navPoint>
+	<navPoint playOrder="8" id="navPoint-8">
+		<navLabel><text>Cucú</text></navLabel>
+		<content src="cap01.html"/>
+	</navPoint>
+	<navPoint playOrder="9" id="navPoint-9">
+		<navLabel><text>Este niño hermoso</text></navLabel>
+		<content src="cap02.html"/>
+	</navPoint>
+	<navPoint playOrder="10" id="navPoint-10">
+		<navLabel><text>Señora Santa Ana</text></navLabel>
+		<content src="cap03.html"/>
+	</navPoint>
+	<navPoint playOrder="11" id="navPoint-11">
+		<navLabel><text>Huachi Torito</text></navLabel>
+		<content src="cap04.html"/>
+	</navPoint>
+	<navPoint playOrder="12" id="navPoint-12">
+		<navLabel><text>Arrullo</text></navLabel>
+		<content src="cap05.html"/>
+	</navPoint>
+	<navPoint playOrder="13" id="navPoint-13">
+		<navLabel><text>Un elefante se balanceaba</text></navLabel>
+		<content src="cap06.html"/>
+	</navPoint>
+	<navPoint playOrder="14" id="navPoint-14">
+		<navLabel><text>Naranja dulce</text></navLabel>
+		<content src="cap07.html"/>
+	</navPoint>
+	<navPoint playOrder="15" id="navPoint-15">
+		<navLabel><text>Cuenta</text></navLabel>
+		<content src="cap08.html"/>
+	</navPoint>
+	<navPoint playOrder="16" id="navPoint-16">
+		<navLabel><text>Arrullo</text></navLabel>
+		<content src="cap09.html"/>
+	</navPoint>
+	<navPoint playOrder="17" id="navPoint-17">
+		<navLabel><text>Los sentidos</text></navLabel>
+		<content src="cap10.html"/>
+	</navPoint>
+	<navPoint playOrder="18" id="navPoint-18">
+		<navLabel><text>La muñeca azul</text></navLabel>
+		<content src="cap11.html"/>
+	</navPoint>
+	<navPoint playOrder="19" id="navPoint-19">
+		<navLabel><text>Cinco lobitos</text></navLabel>
+		<content src="cap12.html"/>
+	</navPoint>
+	<navPoint playOrder="20" id="navPoint-20">
+		<navLabel><text>Canciones de cuna</text></navLabel>
+		<content src="cap13.html"/>
+	</navPoint>
+	<navPoint playOrder="21" id="navPoint-21">
+		<navLabel><text>Dijo el gato: ¡mau!</text></navLabel>
+		<content src="cap14.html"/>
+	</navPoint>
+	<navPoint playOrder="22" id="navPoint-22">
+		<navLabel><text>Cinco varitas</text></navLabel>
+		<content src="cap15.html"/>
+	</navPoint>
+	<navPoint playOrder="23" id="navPoint-23">
+		<navLabel><text>Oye, pichoncito amigo</text></navLabel>
+		<content src="cap16.html"/>
+	</navPoint>
+	<navPoint playOrder="24" id="navPoint-24">
+		<navLabel><text>A la víbora, víbora del amor</text></navLabel>
+		<content src="cap17.html"/>
+	</navPoint>
+	<navPoint playOrder="25" id="navPoint-25">
+		<navLabel><text>Pijaraña</text></navLabel>
+		<content src="cap18.html"/>
+	</navPoint>
+	<navPoint playOrder="26" id="navPoint-26">
+		<navLabel><text>Los ratones</text></navLabel>
+		<content src="cap19.html"/>
+	</navPoint>
+	<navPoint playOrder="27" id="navPoint-27">
+		<navLabel><text>Canción de cuna</text></navLabel>
+		<content src="cap20.html"/>
+	</navPoint>
+	<navPoint playOrder="28" id="navPoint-28">
+		<navLabel><text>Baile</text></navLabel>
+		<content src="cap21.html"/>
+	</navPoint>
+	<navPoint playOrder="29" id="navPoint-29">
+		<navLabel><text>Las mil mentiras</text></navLabel>
+		<content src="cap22.html"/>
+	</navPoint>
+	<navPoint playOrder="30" id="navPoint-30">
+		<navLabel><text>El lavadero de las hadas</text></navLabel>
+		<content src="cap23.html"/>
+	</navPoint>
+	<navPoint playOrder="31" id="navPoint-31">
+		<navLabel><text>A una nariz</text></navLabel>
+		<content src="cap24.html"/>
+	</navPoint>
+	<navPoint playOrder="32" id="navPoint-32">
+		<navLabel><text>Romance de la condesita</text></navLabel>
+		<content src="cap25.html"/>
+	</navPoint>
+	<navPoint playOrder="33" id="navPoint-33">
+		<navLabel><text>Al pasar la barca</text></navLabel>
+		<content src="cap26.html"/>
+	</navPoint>
+	<navPoint playOrder="34" id="navPoint-34">
+		<navLabel><text>La boda de los gatos</text></navLabel>
+		<content src="cap27.html"/>
+	</navPoint>
+	<navPoint playOrder="35" id="navPoint-35">
+		<navLabel><text>Las flores</text></navLabel>
+		<content src="cap28.html"/>
+	</navPoint>
+	<navPoint playOrder="36" id="navPoint-36">
+		<navLabel><text>Los gatos escrupulosos</text></navLabel>
+		<content src="cap29.html"/>
+	</navPoint>
+	<navPoint playOrder="37" id="navPoint-37">
+		<navLabel><text>El mono aplaudido</text></navLabel>
+		<content src="cap30.html"/>
+	</navPoint>
+	<navPoint playOrder="38" id="navPoint-38">
+		<navLabel><text>La perla de la mora</text></navLabel>
+		<content src="cap31.html"/>
+	</navPoint>
+	<navPoint playOrder="39" id="navPoint-39">
+		<navLabel><text>Carolina y olé</text></navLabel>
+		<content src="cap32.html"/>
+	</navPoint>
+	<navPoint playOrder="40" id="navPoint-40">
+		<navLabel><text>Doña Panchíbida</text></navLabel>
+		<content src="cap33.html"/>
+	</navPoint>
+	<navPoint playOrder="41" id="navPoint-41">
+		<navLabel><text>El pavo y la pava</text></navLabel>
+		<content src="cap34.html"/>
+	</navPoint>
+	<navPoint playOrder="42" id="navPoint-42">
+		<navLabel><text>En coche va una niña</text></navLabel>
+		<content src="cap35.html"/>
+	</navPoint>
+	<navPoint playOrder="43" id="navPoint-43">
+		<navLabel><text>Estaba la pájara pinta</text></navLabel>
+		<content src="cap36.html"/>
+	</navPoint>
+	<navPoint playOrder="44" id="navPoint-44">
+		<navLabel><text>Tengo tengo tengo</text></navLabel>
+		<content src="cap37.html"/>
+	</navPoint>
+	<navPoint playOrder="45" id="navPoint-45">
+		<navLabel><text>Bajó un ángel del cielo</text></navLabel>
+		<content src="cap38.html"/>
+	</navPoint>
+	<navPoint playOrder="46" id="navPoint-46">
+		<navLabel><text>Villancico</text></navLabel>
+		<content src="cap39.html"/>
+	</navPoint>
+	<navPoint playOrder="47" id="navPoint-47">
+		<navLabel><text>Rima</text></navLabel>
+		<content src="cap40.html"/>
+	</navPoint>
+	<navPoint playOrder="48" id="navPoint-48">
+		<navLabel><text>Coplas</text></navLabel>
+		<content src="cap41.html"/>
+	</navPoint>
+	<navPoint playOrder="49" id="navPoint-49">
+		<navLabel><text>Villancico</text></navLabel>
+		<content src="cap42.html"/>
+	</navPoint>
+	<navPoint playOrder="50" id="navPoint-50">
+		<navLabel><text>Cuando salí de la Habana</text></navLabel>
+		<content src="cap43.html"/>
+	</navPoint>
+	<navPoint playOrder="51" id="navPoint-51">
+		<navLabel><text>El burro</text></navLabel>
+		<content src="cap44.html"/>
+	</navPoint>
+	<navPoint playOrder="52" id="navPoint-52">
+		<navLabel><text>La gallina Josefina</text></navLabel>
+		<content src="cap45.html"/>
+	</navPoint>
+	<navPoint playOrder="53" id="navPoint-53">
+		<navLabel><text>Cuentos mínimos</text></navLabel>
+		<content src="cap46.html"/>
+	</navPoint>
+	<navPoint playOrder="54" id="navPoint-54">
+		<navLabel><text>Don Pepito el bandolero</text></navLabel>
+		<content src="cap47.html"/>
+	</navPoint>
+	<navPoint playOrder="55" id="navPoint-55">
+		<navLabel><text>El sol y el polvo</text></navLabel>
+		<content src="cap48.html"/>
+	</navPoint>
+	<navPoint playOrder="56" id="navPoint-56">
+		<navLabel><text>El niño y la mariposa</text></navLabel>
+		<content src="cap49.html"/>
+	</navPoint>
+	<navPoint playOrder="57" id="navPoint-57">
+		<navLabel><text>El cocherito</text></navLabel>
+		<content src="cap50.html"/>
+	</navPoint>
+	<navPoint playOrder="58" id="navPoint-58">
+		<navLabel><text>Arroz con leche</text></navLabel>
+		<content src="cap51.html"/>
+	</navPoint>
+	<navPoint playOrder="59" id="navPoint-59">
+		<navLabel><text>El puente está quebrado</text></navLabel>
+		<content src="cap52.html"/>
+	</navPoint>
+	<navPoint playOrder="60" id="navPoint-60">
+		<navLabel><text>Qué quieres lobito</text></navLabel>
+		<content src="cap53.html"/>
+	</navPoint>
+	<navPoint playOrder="61" id="navPoint-61">
+		<navLabel><text>Está la mariposa</text></navLabel>
+		<content src="cap54.html"/>
+	</navPoint>
+	<navPoint playOrder="62" id="navPoint-62">
+		<navLabel><text>El niño va caminando</text></navLabel>
+		<content src="cap55.html"/>
+	</navPoint>
+	<navPoint playOrder="63" id="navPoint-63">
+		<navLabel><text>Trabalenguas</text></navLabel>
+		<content src="cap56.html"/>
+	</navPoint>
+	<navPoint playOrder="64" id="navPoint-64">
+		<navLabel><text>Al ruiseñor</text></navLabel>
+		<content src="cap57.html"/>
+	</navPoint>
+	<navPoint playOrder="65" id="navPoint-65">
+		<navLabel><text>Cantigas</text></navLabel>
+		<content src="cap58.html"/>
+	</navPoint>
+	<navPoint playOrder="66" id="navPoint-66">
+		<navLabel><text>Barquero</text></navLabel>
+		<content src="cap59.html"/>
+	</navPoint>
+	<navPoint playOrder="67" id="navPoint-67">
+		<navLabel><text>El pajarito</text></navLabel>
+		<content src="cap60.html"/>
+	</navPoint>
+	<navPoint playOrder="68" id="navPoint-68">
+		<navLabel><text>Ronda de la luna</text></navLabel>
+		<content src="cap61.html"/>
+	</navPoint>
+	<navPoint playOrder="69" id="navPoint-69">
+		<navLabel><text>Trabalenguas</text></navLabel>
+		<content src="cap62.html"/>
+	</navPoint>
+	<navPoint playOrder="70" id="navPoint-70">
+		<navLabel><text>A la rueda rueda</text></navLabel>
+		<content src="cap63.html"/>
+	</navPoint>
+	<navPoint playOrder="71" id="navPoint-71">
+		<navLabel><text>Canciones de amor</text></navLabel>
+		<content src="cap64.html"/>
+	</navPoint>
+	<navPoint playOrder="72" id="navPoint-72">
+		<navLabel><text>La marisola</text></navLabel>
+		<content src="cap65.html"/>
+	</navPoint>
+	<navPoint playOrder="73" id="navPoint-73">
+		<navLabel><text>Agua cristalina</text></navLabel>
+		<content src="cap66.html"/>
+	</navPoint>
+	<navPoint playOrder="74" id="navPoint-74">
+		<navLabel><text>Los pollos de mi cazuela</text></navLabel>
+		<content src="cap67.html"/>
+	</navPoint>
+	<navPoint playOrder="75" id="navPoint-75">
+		<navLabel><text>Patito patito</text></navLabel>
+		<content src="cap68.html"/>
+	</navPoint>
+	<navPoint playOrder="76" id="navPoint-76">
+		<navLabel><text>Conjuro para convocar la lluvia</text></navLabel>
+		<content src="cap69.html"/>
+	</navPoint>
+	<navPoint playOrder="77" id="navPoint-77">
+		<navLabel><text>El burro enfermo</text></navLabel>
+		<content src="cap70.html"/>
+	</navPoint>
+	<navPoint playOrder="78" id="navPoint-78">
+		<navLabel><text>Sortilegio de sorteo</text></navLabel>
+		<content src="cap71.html"/>
+	</navPoint>
+	<navPoint playOrder="79" id="navPoint-79">
+		<navLabel><text>Coro de la mañana</text></navLabel>
+		<content src="cap72.html"/>
+	</navPoint>
+	<navPoint playOrder="80" id="navPoint-80">
+		<navLabel><text>El aguatero</text></navLabel>
+		<content src="cap73.html"/>
+	</navPoint>
+	<navPoint playOrder="81" id="navPoint-81">
+		<navLabel><text>A dormir</text></navLabel>
+		<content src="cap74.html"/>
+	</navPoint>
+	<navPoint playOrder="82" id="navPoint-82">
+		<navLabel><text>Retahíla</text></navLabel>
+		<content src="cap75.html"/>
+	</navPoint>
+	<navPoint playOrder="83" id="navPoint-83">
+		<navLabel><text>Adivinanzas</text></navLabel>
+		<content src="cap76.html"/>
+	</navPoint>
+	<navPoint playOrder="84" id="navPoint-84">
+		<navLabel><text>El patio de mi casa</text></navLabel>
+		<content src="cap77.html"/>
+	</navPoint>
+	<navPoint playOrder="85" id="navPoint-85">
+		<navLabel><text>Pin pon</text></navLabel>
+		<content src="cap78.html"/>
+	</navPoint>
+	<navPoint playOrder="86" id="navPoint-86">
+		<navLabel><text>Don tomate</text></navLabel>
+		<content src="cap79.html"/>
+	</navPoint>
+</navMap>
+</ncx>

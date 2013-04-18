@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<dc:title>La edad de oro</dc:title>
+	<dc:creator opf:role="aut" opf:file-as="Martí, José">José Martí</dc:creator>
+	<dc:publisher>Instituto Distrital de las Artes – idartes</dc:publisher>
+	<dc:rights>Copyright Instituto Distrital de las Artes – idartes ©2012</dc:rights>
+	<dc:identifier id="BookId">9789588471051</dc:identifier>
+	<dc:language>es</dc:language>
+	
+	<dc:subject>La edad de oro, literatura latinoamericana, josé martí, literatura cubana, literatura infantil, libro al viento, secretaría de cultura bogotá</dc:subject>
+      <dc:description>José Martí redactó y publicó el periódico La edad de oro en 1891, mientras vivía en la ciudad de Nueva York. Fue una publicación que sólo tuvo cuatro números o "cuadernos", con no más de treinta artículos, y de los que ofrecemos ahora un fragmento de cada uno al lector de Libro al Viento. El propósito que guió a Martí la creación de este pequeño periódico fue fundamentalmente didáctico; una de las tantas ilustraciones de su oficio y pasión como periodista y maestro. Quería, echando mano de un lenguaje sencillo y directo, que los niños americanos supieran "cómo está hecho el mundo", "que…sepan cómo se vivía antes, y se vive hoy, en América, y en las demás tierras…" y para que supieran "lo que se sabe del cielo, y de lo hondo del mar y de la tierra…".</dc:description>
+      <dc:date>2013-01-15</dc:date>
+	  <dc:contributor opf:role="aut" opf:file-as="Martí, José">José Martí</dc:contributor>
+	<dc:contributor opf:role="aui" opf:file-as="Paredes Castro, Julio">Julio Paredes Castro</dc:contributor>
+	  
+	<meta name="cover" content="cover-image"/>
+</metadata>
+
+<manifest>
+	<item id="cover" href="cover.xml" media-type="application/xhtml+xml"/>
+	<item id="cover-image" href="imgs/cover.png" media-type="image/png"/>
+	<item id="portada" href="portada.xml" media-type="application/xhtml+xml"/>
+	<item id="portada2" href="portada2.xml" media-type="application/xhtml+xml"/>
+	<item id="fportada" href="imgs/portada.png" media-type="image/png"/>
+	<item id="fportada2" href="imgs/portada2.png" media-type="image/png"/>
+	<item id="portadilla" href="portadilla.xml" media-type="application/xhtml+xml"/>
+	<item id="fportadilla" href="imgs/portadilla.png" media-type="image/png"/>
+	<item id="style" href="estilos.css" media-type="text/css"/>
+	<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>	
+	<item id="texlegal" href="texlegal.html" media-type="application/xhtml+xml"/>
+	<item id="contenido" href="contenido.html" media-type="application/xhtml+xml"/>
+	<item id="presentacion" href="presentacion.html" media-type="application/xhtml+xml"/>
+	<item id="cap01" href="cap01.html" media-type="application/xhtml+xml"/>
+	<item id="cap02" href="cap02.html" media-type="application/xhtml+xml"/>
+	<item id="cap03" href="cap03.html" media-type="application/xhtml+xml"/>
+	<item id="cap04" href="cap04.html" media-type="application/xhtml+xml"/>
+</manifest>
+
+<spine toc="ncx">
+	<itemref linear="yes" idref="cover" />
+	<itemref linear="yes" idref="portada"/>
+	<itemref linear="yes" idref="portada2"/>
+	<itemref linear="yes" idref="texlegal"/>
+	<itemref linear="yes" idref="contenido"/>
+	<itemref linear="yes" idref="presentacion"/>
+	<itemref linear="yes" idref="portadilla"/>
+	<itemref linear="yes" idref="cap01"/>
+	<itemref linear="yes" idref="cap02"/>	
+	<itemref linear="yes" idref="cap03"/>	
+	<itemref linear="yes" idref="cap04"/>						
+</spine>
+
+<guide>
+	<reference type="cover" title="La edad de oro" href="cover.xml"/>
+	<reference type="other.reader-start-page" title="Libro al viento, La edad de oro" href="portada.xml"/>
+	<reference type="title-page" title="La edad de oro, portada" href="portada2.xml"/>
+	<reference type="copyright-page" title="Créditos" href="texlegal.html"/>
+	<reference type="toc" title="Contenido" href="contenido.html"/>
+	<reference type="foreword" title="Introducción" href="presentacion.html"/>
+	<reference type="other.portadilla" title="La edad de oro, portadilla" href="portadilla.xml"/>
+	<reference type="text" title="Primer cuaderno" href="cap01.html"/>
+	<reference type="other.cap02" title="Segundo cuaderno" href="cap02.html"/>
+	<reference type="other.cap03" title="Tercer cuaderno" href="cap03.html"/>
+	<reference type="other.cap04" title="Cuarto cuaderno" href="cap04.html"/>
+</guide>
+</package>

@@ -1,0 +1,18 @@
+p.image {
+    text-align: center;
+    width: 60%;
+}
+
+p.image img {
+    width: 100%;
+    float: left;
+}
+
+.clearfix {
+    clear: both;:
+}
+
+.info {
+    float: left;
+    margin: 0 5px;
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>José Eustasio Rivera</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>B393085B76E7106BDBB80BC1C2E13677</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/imgs/cover.png</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>656B9CC1668D833D963BFCBFA0499CF8</string>
+		<key>publisher-unique-id</key>
+		<string>9789588471365</string>
+		<key>unique-id</key>
+		<integer>8425498843002455186</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>libro al viento, literatura colombiana, jose eustasio rivera, sonetos, idartes</string>
+	<key>itemName</key>
+	<string>Tierra de promisión</string>
+	<key>playlistName</key>
+	<string>Tierra de promisión</string>
+	<key>releaseDate</key>
+	<string>2013-01-20</string>
+	<key>sort-artist</key>
+	<string>Rivera, José Eustasio</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

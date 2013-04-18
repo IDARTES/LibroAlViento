@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<dc:title>El libro de Marco Polo</dc:title>
+	<dc:creator opf:role="aut" opf:file-as="Marco Polo">Marco Polo</dc:creator>
+	<dc:publisher>Instituto Distrital de las Artes – Idartes</dc:publisher>
+	<dc:rights>Instituto Distrital de las Artes – Idartes ©2012</dc:rights>
+	<dc:identifier id="BookId">9789588321158</dc:identifier>
+	<dc:language>es</dc:language>
+	
+	<dc:subject>literatura universal, libro al viento, secretaría de cultura bogotá, literatura medieval, libros de viajes, aventuras</dc:subject>
+      <dc:description>En el año de 1298, Marco Polo cae preso y es encarcelado por los genoveses. Allí, para sobreponerse al tedio y el infortunio, decide dictar los recuerdos de sus andanzas a un compañero de celda, Rustichello de Pisa. Tal vez por tratarse de un portentoso esfuerzo de memoria, debido a lo detallado que resultará después el libro, Marco Polo advierte y asegura constantemente al lector que todo lo que cuenta y describe es verdadero [...] Recuerden los lectores de este Libro al viento que Marco Polo sólo quiso que lo relatado fuera verdadero, pero como afirmó alguien en El Quijote “la mentira es mejor cuando más parece verdadera”.</dc:description>
+      <dc:date>2012-12-05</dc:date>
+	  <dc:contributor opf:role="aut" opf:file-as="Marco Polo">Marco Polo</dc:contributor>
+	  
+	<meta name="cover" content="cover-image"/>
+</metadata>
+
+<manifest>
+	<item id="cover" href="cover.xml" media-type="application/xhtml+xml"/>
+	<item id="cover-image" href="imgs/cover.png" media-type="image/png"/>
+	<item id="portada" href="portada.xml" media-type="application/xhtml+xml"/>
+	<item id="fportada" href="imgs/portada.png" media-type="image/png"/>
+	<item id="portada2" href="portada2.xml" media-type="application/xhtml+xml"/>
+	<item id="fportada2" href="imgs/portada2.png" media-type="image/png"/>
+	<item id="style" href="estilos.css" media-type="text/css"/>
+	<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>	
+	<item id="texlegal" href="texlegal.html" media-type="application/xhtml+xml"/>
+	
+	<item id="contenido" href="contenido.html" media-type="application/xhtml+xml"/>
+	<item id="portadilla" href="portadilla.xml" media-type="application/xhtml+xml"/>
+	<item id="fportadilla" href="imgs/portadilla.png" media-type="image/png"/>
+	<item id="presentacion" href="presentacion.html" media-type="application/xhtml+xml"/>
+	<item id="cap01" href="cap01.html" media-type="application/xhtml+xml"/>
+	<item id="cap02" href="cap02.html" media-type="application/xhtml+xml"/>
+	<item id="cap03" href="cap03.html" media-type="application/xhtml+xml"/>
+	<item id="cap04" href="cap04.html" media-type="application/xhtml+xml"/>
+	
+	<item id="f01" href="imgs/f01.png" media-type="image/png"/>
+	<item id="f02" href="imgs/f02.png" media-type="image/png"/>
+	<item id="f03" href="imgs/f03.png" media-type="image/png"/>
+	<item id="f05" href="imgs/f05.png" media-type="image/png"/>
+	<item id="f06" href="imgs/f06.png" media-type="image/png"/>
+	<item id="f07" href="imgs/f07.png" media-type="image/png"/>
+	<item id="f08" href="imgs/f08.png" media-type="image/png"/>
+	<item id="f09" href="imgs/f09.png" media-type="image/png"/>
+	<item id="f10" href="imgs/f10.png" media-type="image/png"/>
+	<item id="f11" href="imgs/f11.png" media-type="image/png"/>
+	<item id="f12" href="imgs/f12.png" media-type="image/png"/>
+	<item id="f13" href="imgs/f13.png" media-type="image/png"/>
+	<item id="f14" href="imgs/f14.png" media-type="image/png"/>
+	<item id="f15" href="imgs/f15.png" media-type="image/png"/>
+	<item id="f16" href="imgs/f16.png" media-type="image/png"/>
+	<item id="f17" href="imgs/f17.png" media-type="image/png"/>
+	<item id="f18" href="imgs/f18.png" media-type="image/png"/>
+	<item id="f19" href="imgs/f19.png" media-type="image/png"/>
+</manifest>
+
+<spine toc="ncx">
+	<itemref linear="yes" idref="cover" />
+	<itemref linear="yes" idref="portada"/>
+	<itemref linear="yes" idref="portada2"/>
+	<itemref linear="yes" idref="texlegal"/>
+	<itemref linear="yes" idref="contenido"/>
+	<itemref linear="yes" idref="presentacion"/>
+	<itemref linear="yes" idref="portadilla"/>
+	<itemref linear="yes" idref="cap01"/>
+	<itemref linear="yes" idref="cap02"/>	
+	<itemref linear="yes" idref="cap03"/>	
+	<itemref linear="yes" idref="cap04"/>		
+</spine>
+
+<guide>
+	<reference type="cover" title="El libro de Marco Polo" href="cover.xml"/>
+	<reference type="other.reader-start-page" title="Libro al viento" href="portada.xml"/>
+	<reference type="title-page" title="El libro de Marco Polo, portada" href="portada2.xml"/>
+	<reference type="copyright-page" title="Créditos" href="texlegal.html"/>
+	<reference type="toc" title="Contenido" href="contenido.html"/>
+	<reference type="foreword" title="Introducción" href="presentacion.html"/>
+	<reference type="foreword" title="El libro de Marco Polo, portadilla" href="portadilla.xml"/>
+	<reference type="text" title="Prólogo" href="cap01.html"/>
+	<reference type="other.cap02" title="Aquí empieza el primer libro" href="cap02.html"/>
+	<reference type="other.cap03" title="Aquí empieza el segundo libro" href="cap03.html"/>
+	<reference type="other.cap04" title="Aquí empieza el tercer libro" href="cap04.html"/>
+</guide>
+</package>

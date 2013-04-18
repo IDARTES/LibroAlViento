@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<dc:title>La vida es sueño</dc:title>
+	<dc:creator opf:role="aut" opf:file-as="Calderón de la Barca, Pedro">Pedro Calderón de la Barca</dc:creator>
+	<dc:publisher>Instituto Distrital de las Artes – Idartes</dc:publisher>
+	<dc:rights>Copyright Instituto Distrital de las Artes – idartes ©2012</dc:rights>
+	<dc:identifier id="BookId">9789588471136</dc:identifier>
+	<dc:language>es</dc:language>
+	
+	<dc:subject>la vida es sueño, teatro español, calderón de la barca, siglo de oro, libro al viento, secretaría de cultura bogotá, literatura universal</dc:subject>
+      <dc:description>A pesar de haber sido autor de cientos de obras, entre comedias, zarzuelas, autos sacramentales, entremeses y loas, el nombre de Pedro Calderón de la Barca quedó para siempre entrelazado en la mente de los lectores al de La vida es sueño, como si fuera su única obra. Después de una activa y azarosa vida de "capa y espada", pasó los casi últimos veinte años de su vida en la Congregación de Presbíteros de Madrid y dispuso en su testamento que lo enterraran como "otro cualquiera pobre sacerdote... llevándome descubierto por si mereciese satisfacer en parte las públicas vanidades de mi mal gastada vida con públicos desengaños de mi nuerte", enigmáticas palabras que parecieron salir de otro monólogo sobre los melancólicos espejismos del mundo.</dc:description>
+      <dc:date>2013-01-20</dc:date>
+	  <dc:contributor opf:role="aut" opf:file-as="Calderón de la Barca, Pedro">Pedro Calderón de la Barca</dc:contributor>
+	<dc:contributor opf:role="aui" opf:file-as="Paredes Castro, Julio">Julio Paredes Castro</dc:contributor>
+	  
+	<meta name="cover" content="cover-image"/>
+</metadata>
+
+<manifest>
+	<item id="cover" href="cover.xml" media-type="application/xhtml+xml"/>
+	<item id="cover-image" href="imgs/cover.png" media-type="image/png"/>
+	<item id="portada" href="portada.xml" media-type="application/xhtml+xml"/>
+	<item id="portada2" href="portada2.xml" media-type="application/xhtml+xml"/>
+	<item id="fportada" href="imgs/portada.png" media-type="image/png"/>
+	<item id="fportada2" href="imgs/portada2.png" media-type="image/png"/>
+	<item id="style" href="estilos.css" media-type="text/css"/>
+	<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>	
+	<item id="texlegal" href="texlegal.html" media-type="application/xhtml+xml"/>
+	<item id="contenido" href="contenido.html" media-type="application/xhtml+xml"/>
+	<item id="presentacion" href="presentacion.html" media-type="application/xhtml+xml"/>
+	
+	<item id="portadilla" href="portadilla.xml" media-type="application/xhtml+xml"/>
+	<item id="fportadilla" href="imgs/portadilla.png" media-type="image/png"/>
+	<item id="portadilla2" href="portadilla2.xml" media-type="application/xhtml+xml"/>
+	<item id="fportadilla2" href="imgs/portadilla2.png" media-type="image/png"/>
+	
+	<item id="cap00" href="cap00.html" media-type="application/xhtml+xml"/>
+	<item id="cap01" href="cap01.html" media-type="application/xhtml+xml"/>
+	<item id="cap02" href="cap02.html" media-type="application/xhtml+xml"/>
+	<item id="cap03" href="cap03.html" media-type="application/xhtml+xml"/>
+</manifest>
+
+<spine toc="ncx">
+	<itemref linear="yes" idref="cover" />
+	<itemref linear="yes" idref="portada"/>
+	<itemref linear="yes" idref="portada2"/>
+	<itemref linear="yes" idref="texlegal"/>
+	<itemref linear="yes" idref="contenido"/>
+	<itemref linear="yes" idref="portadilla"/>
+	<itemref linear="yes" idref="presentacion"/>
+	<itemref linear="yes" idref="portadilla2"/>
+	<itemref linear="yes" idref="cap00"/>
+	<itemref linear="yes" idref="cap01"/>
+	<itemref linear="yes" idref="cap02"/>	
+	<itemref linear="yes" idref="cap03"/>								
+</spine>
+
+<guide>
+	<reference type="cover" title="La vida es sueño" href="cover.xml"/>
+	<reference type="other.reader-start-page" title="Libro al viento, La vida es sueño" href="portada.xml"/>
+	<reference type="title-page" title="La vida es sueño, portada" href="portada2.xml"/>
+	<reference type="copyright-page" title="Créditos" href="texlegal.html"/>
+	<reference type="toc" title="Contenido" href="contenido.html"/>
+	<reference type="text" title="La vida es sueño, portada" href="portadilla.xml"/>
+	<reference type="foreword" title="Introducción" href="presentacion.html"/>
+	<reference type="other.portadilla2" title="La vida es sueño" href="portadilla2.xml"/>
+	<reference type="othe.cap00" title="Reparto" href="cap01.html"/>
+	<reference type="other.cap01" title="Acto primero" href="cap01.html"/>
+	<reference type="other.cap02" title="Acto segundo" href="cap02.html"/>
+	<reference type="other.cap03" title="Acto tercero" href="cap03.html"/>
+</guide>
+</package>

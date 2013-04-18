@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<dc:title>Tierra de promisión</dc:title>
+	<dc:creator opf:role="aut" opf:file-as="Rivera, José Eustasio">José Eustasio Rivera</dc:creator>
+	<dc:publisher>Instituto Distrital de las Artes – Idartes</dc:publisher>
+	<dc:rights>Copyright Instituto Distrital de las Artes – idartes ©2012</dc:rights>
+	<dc:identifier id="BookId">9789588471365</dc:identifier>
+	<dc:language>es</dc:language>
+	
+	<dc:subject>libro al viento, literatura colombiana, jose eustasio rivera, sonetos, idartes</dc:subject>
+      <dc:description>El nombre de José Eustasio Rivera ha quedado para siempre vinculado al título de su novela La vorágine, publicada en 1924 y reconocida hoy en día como una de las obras narrativas fundamentales en la historia de la literatura colombiana y latinoamericana. De alguna manera, pareciera como si en la memoria colectiva la obra de Rivera se limitara a este único título, compartiendo así un destino que ha marcado la biografía de muchos otros escritores. Sin embargo, el lector de Libro al Viento descubrirá que en Tierra de promisión, la colección de sonetos que ahora presentamos, publicada años antes que La vorágine, se encontraban ya muchas de las claves íntimas, temáticas y literarias que más tarde le imprimieron esa particular vitalidad a la novela.</dc:description>
+      <dc:date>2013-01-20</dc:date>
+	  <dc:contributor opf:role="aut" opf:file-as="Rivera, José Eustasio">José Eustasio Rivera</dc:contributor>
+	<dc:contributor opf:role="aui" opf:file-as="Paredes Castro, Julio">Julio Paredes Castro</dc:contributor>
+	  
+	<meta name="cover" content="cover-image"/>
+</metadata>
+
+<manifest>
+	<item id="cover" href="cover.xml" media-type="application/xhtml+xml"/>
+	<item id="cover-image" href="imgs/cover.png" media-type="image/png"/>
+	<item id="portada" href="portada.xml" media-type="application/xhtml+xml"/>
+	<item id="portada2" href="portada2.xml" media-type="application/xhtml+xml"/>
+	<item id="fportada" href="imgs/portada.png" media-type="image/png"/>
+	<item id="fportada2" href="imgs/portada2.png" media-type="image/png"/>
+	<item id="portadilla" href="portadilla.xml" media-type="application/xhtml+xml"/>
+	<item id="fportadilla" href="imgs/portadilla.png" media-type="image/png"/>
+	<item id="style" href="estilos.css" media-type="text/css"/>
+	<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>	
+	<item id="texlegal" href="texlegal.html" media-type="application/xhtml+xml"/>
+	<item id="contenido" href="contenido.html" media-type="application/xhtml+xml"/>
+	<item id="presentacion" href="presentacion.html" media-type="application/xhtml+xml"/>
+	<item id="cap00" href="cap00.html" media-type="application/xhtml+xml"/>
+	<item id="cap01" href="cap01.html" media-type="application/xhtml+xml"/>
+	<item id="cap02" href="cap02.html" media-type="application/xhtml+xml"/>
+	<item id="cap03" href="cap03.html" media-type="application/xhtml+xml"/>
+</manifest>
+
+<spine toc="ncx">
+	<itemref linear="yes" idref="cover" />
+	<itemref linear="yes" idref="portada"/>
+	<itemref linear="yes" idref="portada2"/>
+	<itemref linear="yes" idref="texlegal"/>
+	<itemref linear="yes" idref="contenido"/>
+	<itemref linear="yes" idref="presentacion"/>
+	<itemref linear="yes" idref="portadilla"/>
+	<itemref linear="yes" idref="cap00"/>
+	<itemref linear="yes" idref="cap01"/>
+	<itemref linear="yes" idref="cap02"/>	
+	<itemref linear="yes" idref="cap03"/>							
+</spine>
+
+<guide>
+	<reference type="cover" title="Tierra de promisión" href="cover.xml"/>
+	<reference type="other.reader-start-page" title="Libro al viento, Tierra de promisión" href="portada.xml"/>
+	<reference type="title-page" title="Tierra de promisión, portada" href="portada2.xml"/>
+	<reference type="copyright-page" title="Créditos" href="texlegal.html"/>
+	<reference type="toc" title="Contenido" href="contenido.html"/>
+	<reference type="foreword" title="Introducción" href="presentacion.html"/>
+	<reference type="other.portadilla" title="Tierra de promisión, portadilla" href="portadilla.xml"/>
+	<reference type="text" title="Prólogo" href="cap00.html"/>
+	<reference type="other.cap01" title="Primera parte" href="cap01.html"/>
+	<reference type="other.cap02" title="Segunda parte" href="cap02.html"/>
+	<reference type="other.cap03" title="Tercera parte" href="cap03.html"/>
+</guide>
+</package>

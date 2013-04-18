@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<dc:title>Poesía para niños</dc:title>
+	<dc:creator opf:role="aut" opf:file-as="Idartes">Instituto Distrital de las Artes – Idartes</dc:creator>
+	<dc:publisher>Instituto Distrital de las Artes – Idartes</dc:publisher>
+	<dc:rights>Instituto Distrital de las Artes – Idartes ©2012</dc:rights>
+	<dc:identifier id="BookId">9789588321158</dc:identifier>
+	<dc:language>es</dc:language>
+	
+	<dc:subject>literatura infantil, poesía para niños, beatriz helena robledo, libro al viento, bogotá, secretaría de cultura bogotá, antología infantil</dc:subject>
+      <dc:description>Este libro quiere ofrecer a sus lectores una cuidadosa selección de poesía. Poesía de tradición oral y poesía de algunos autores cuya obra ya hace parte de la memoria colectiva. Poesía, poesía a borbotones para leerla de muchas maneras. Leerla, por qué no, en voz alta, con los niños y niñas sentados alrededor escuchando la musicalidad de una palabra que al "tocarla" empieza a sonar.</dc:description>
+      <dc:date>2012-12-20</dc:date>
+	  <dc:contributor opf:role="aut" opf:file-as="Idartes">Instituto Distrital de las Artes – Idartes</dc:contributor>
+	  <dc:contributor opf:role="aui" opf:file-as="Paredes, Julio">Julio Paredes</dc:contributor>
+	  
+	<meta name="cover" content="cover-image"/>
+</metadata>
+
+<manifest>
+	<item id="cover" href="cover.xml" media-type="application/xhtml+xml"/>
+	<item id="cover-image" href="imgs/cover.png" media-type="image/png"/>
+	<item id="portada" href="portada.xml" media-type="application/xhtml+xml"/>
+	<item id="fportada" href="imgs/portada.png" media-type="image/png"/>
+	<item id="portada2" href="portada2.xml" media-type="application/xhtml+xml"/>
+	<item id="fportada2" href="imgs/portada2.png" media-type="image/png"/>
+	<item id="style" href="estilos.css" media-type="text/css"/>
+	<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>	
+	<item id="texlegal" href="texlegal.html" media-type="application/xhtml+xml"/>
+	
+	<item id="contenido" href="contenido.html" media-type="application/xhtml+xml"/>
+	<item id="portadilla" href="portadilla.xml" media-type="application/xhtml+xml"/>
+	<item id="fportadilla" href="imgs/portadilla.png" media-type="image/png"/>
+	<item id="presentacion" href="presentacion.html" media-type="application/xhtml+xml"/>
+	<item id="cap01" href="cap01.html" media-type="application/xhtml+xml"/>
+	<item id="cap02" href="cap02.html" media-type="application/xhtml+xml"/>
+	<item id="cap03" href="cap03.html" media-type="application/xhtml+xml"/>
+	<item id="cap04" href="cap04.html" media-type="application/xhtml+xml"/>
+	<item id="cap05" href="cap05.html" media-type="application/xhtml+xml"/>
+	<item id="cap06" href="cap06.html" media-type="application/xhtml+xml"/>
+	<item id="cap07" href="cap07.html" media-type="application/xhtml+xml"/>
+	<item id="cap08" href="cap08.html" media-type="application/xhtml+xml"/>
+	<item id="cap09" href="cap09.html" media-type="application/xhtml+xml"/>
+	<item id="cap10" href="cap10.html" media-type="application/xhtml+xml"/>
+	<item id="cap11" href="cap11.html" media-type="application/xhtml+xml"/>
+	<item id="cap12" href="cap12.html" media-type="application/xhtml+xml"/>
+	<item id="cap13" href="cap13.html" media-type="application/xhtml+xml"/>
+	<item id="cap14" href="cap14.html" media-type="application/xhtml+xml"/>
+	<item id="cap15" href="cap15.html" media-type="application/xhtml+xml"/>
+	<item id="cap16" href="cap16.html" media-type="application/xhtml+xml"/>
+	<item id="cap17" href="cap17.html" media-type="application/xhtml+xml"/>
+	<item id="cap18" href="cap18.html" media-type="application/xhtml+xml"/>
+	<item id="cap19" href="cap19.html" media-type="application/xhtml+xml"/>
+	<item id="cap20" href="cap20.html" media-type="application/xhtml+xml"/>
+	<item id="cap21" href="cap21.html" media-type="application/xhtml+xml"/>
+	<item id="cap22" href="cap22.html" media-type="application/xhtml+xml"/>
+	<item id="cap23" href="cap23.html" media-type="application/xhtml+xml"/>
+	<item id="cap24" href="cap24.html" media-type="application/xhtml+xml"/>
+	<item id="cap25" href="cap25.html" media-type="application/xhtml+xml"/>
+	<item id="cap26" href="cap26.html" media-type="application/xhtml+xml"/>
+	<item id="cap27" href="cap27.html" media-type="application/xhtml+xml"/>
+	<item id="cap28" href="cap28.html" media-type="application/xhtml+xml"/>
+	<item id="cap29" href="cap29.html" media-type="application/xhtml+xml"/>
+	<item id="cap30" href="cap30.html" media-type="application/xhtml+xml"/>
+	<item id="cap31" href="cap31.html" media-type="application/xhtml+xml"/>
+	<item id="cap32" href="cap32.html" media-type="application/xhtml+xml"/>
+	<item id="cap33" href="cap33.html" media-type="application/xhtml+xml"/>
+	<item id="cap34" href="cap34.html" media-type="application/xhtml+xml"/>
+	<item id="cap35" href="cap35.html" media-type="application/xhtml+xml"/>
+	<item id="cap36" href="cap36.html" media-type="application/xhtml+xml"/>
+	<item id="cap37" href="cap37.html" media-type="application/xhtml+xml"/>
+	<item id="cap38" href="cap38.html" media-type="application/xhtml+xml"/>
+	<item id="cap39" href="cap39.html" media-type="application/xhtml+xml"/>
+	<item id="cap40" href="cap40.html" media-type="application/xhtml+xml"/>
+	<item id="cap41" href="cap41.html" media-type="application/xhtml+xml"/>
+	<item id="cap42" href="cap42.html" media-type="application/xhtml+xml"/>
+	<item id="cap43" href="cap43.html" media-type="application/xhtml+xml"/>
+	<item id="cap44" href="cap44.html" media-type="application/xhtml+xml"/>
+	<item id="cap45" href="cap45.html" media-type="application/xhtml+xml"/>
+	<item id="cap46" href="cap46.html" media-type="application/xhtml+xml"/>
+	<item id="cap47" href="cap47.html" media-type="application/xhtml+xml"/>
+	<item id="cap48" href="cap48.html" media-type="application/xhtml+xml"/>
+	<item id="cap49" href="cap49.html" media-type="application/xhtml+xml"/>
+	<item id="cap50" href="cap50.html" media-type="application/xhtml+xml"/>
+	<item id="cap51" href="cap51.html" media-type="application/xhtml+xml"/>
+	<item id="cap52" href="cap52.html" media-type="application/xhtml+xml"/>
+	<item id="cap53" href="cap53.html" media-type="application/xhtml+xml"/>
+	<item id="cap54" href="cap54.html" media-type="application/xhtml+xml"/>
+	<item id="cap55" href="cap55.html" media-type="application/xhtml+xml"/>
+	<item id="cap56" href="cap56.html" media-type="application/xhtml+xml"/>
+	<item id="cap57" href="cap57.html" media-type="application/xhtml+xml"/>
+	<item id="cap58" href="cap58.html" media-type="application/xhtml+xml"/>
+	<item id="cap59" href="cap59.html" media-type="application/xhtml+xml"/>
+	<item id="cap60" href="cap60.html" media-type="application/xhtml+xml"/>
+	<item id="cap61" href="cap61.html" media-type="application/xhtml+xml"/>
+	<item id="cap62" href="cap62.html" media-type="application/xhtml+xml"/>
+	<item id="cap63" href="cap63.html" media-type="application/xhtml+xml"/>
+	<item id="cap64" href="cap64.html" media-type="application/xhtml+xml"/>
+	<item id="cap65" href="cap65.html" media-type="application/xhtml+xml"/>
+	<item id="cap66" href="cap66.html" media-type="application/xhtml+xml"/>
+	<item id="cap67" href="cap67.html" media-type="application/xhtml+xml"/>
+	<item id="cap68" href="cap68.html" media-type="application/xhtml+xml"/>
+	<item id="cap69" href="cap69.html" media-type="application/xhtml+xml"/>
+	<item id="cap70" href="cap70.html" media-type="application/xhtml+xml"/>
+	<item id="cap71" href="cap71.html" media-type="application/xhtml+xml"/>
+	<item id="cap72" href="cap72.html" media-type="application/xhtml+xml"/>
+	<item id="cap73" href="cap73.html" media-type="application/xhtml+xml"/>
+	<item id="cap74" href="cap74.html" media-type="application/xhtml+xml"/>
+	<item id="cap75" href="cap75.html" media-type="application/xhtml+xml"/>
+	<item id="cap76" href="cap76.html" media-type="application/xhtml+xml"/>
+	<item id="cap77" href="cap77.html" media-type="application/xhtml+xml"/>
+	<item id="cap78" href="cap78.html" media-type="application/xhtml+xml"/>
+	<item id="cap79" href="cap79.html" media-type="application/xhtml+xml"/>
+	
+	<item id="f01" href="imgs/f01.png" media-type="image/png"/>
+	<item id="f02" href="imgs/f02.png" media-type="image/png"/>
+	<item id="f03" href="imgs/f03.png" media-type="image/png"/>
+	<item id="f04" href="imgs/f04.png" media-type="image/png"/>
+	<item id="f05" href="imgs/f05.png" media-type="image/png"/>
+	<item id="f06" href="imgs/f06.png" media-type="image/png"/>
+	<item id="f07" href="imgs/f07.png" media-type="image/png"/>
+	<item id="f08" href="imgs/f08.png" media-type="image/png"/>
+	<item id="f09" href="imgs/f09.png" media-type="image/png"/>
+	<item id="f10" href="imgs/f10.png" media-type="image/png"/>
+	<item id="f11" href="imgs/f11.png" media-type="image/png"/>
+	<item id="f12" href="imgs/f12.png" media-type="image/png"/>
+	<item id="f13" href="imgs/f13.png" media-type="image/png"/>
+	<item id="f14" href="imgs/f14.png" media-type="image/png"/>
+	<item id="f15" href="imgs/f15.png" media-type="image/png"/>
+	<item id="f16" href="imgs/f16.png" media-type="image/png"/>
+	<item id="f17" href="imgs/f17.png" media-type="image/png"/>
+	<item id="f18" href="imgs/f18.png" media-type="image/png"/>
+	<item id="f19" href="imgs/f19.png" media-type="image/png"/>
+	<item id="f20" href="imgs/f20.png" media-type="image/png"/>
+	<item id="f21" href="imgs/f21.png" media-type="image/png"/>
+	<item id="f22" href="imgs/f22.png" media-type="image/png"/>
+	<item id="f23" href="imgs/f23.png" media-type="image/png"/>
+	<item id="f24" href="imgs/f24.png" media-type="image/png"/>
+	<item id="f25" href="imgs/f25.png" media-type="image/png"/>
+
+</manifest>
+
+<spine toc="ncx">
+	<itemref linear="yes" idref="cover" />
+	<itemref linear="yes" idref="portada"/>
+	<itemref linear="yes" idref="portada2"/>
+	<itemref linear="yes" idref="texlegal"/>
+	<itemref linear="yes" idref="contenido"/>
+	<itemref linear="yes" idref="presentacion"/>
+	<itemref linear="yes" idref="portadilla"/>
+	<itemref linear="yes" idref="cap01"/>
+	<itemref linear="yes" idref="cap02"/>	
+	<itemref linear="yes" idref="cap03"/>	
+	<itemref linear="yes" idref="cap04"/>
+	<itemref linear="yes" idref="cap05"/>
+	<itemref linear="yes" idref="cap06"/>	
+	<itemref linear="yes" idref="cap07"/>	
+	<itemref linear="yes" idref="cap08"/>
+	<itemref linear="yes" idref="cap09"/>
+	<itemref linear="yes" idref="cap10"/>
+	<itemref linear="yes" idref="cap11"/>
+	<itemref linear="yes" idref="cap12"/>	
+	<itemref linear="yes" idref="cap13"/>	
+	<itemref linear="yes" idref="cap14"/>
+	<itemref linear="yes" idref="cap15"/>
+	<itemref linear="yes" idref="cap16"/>	
+	<itemref linear="yes" idref="cap17"/>	
+	<itemref linear="yes" idref="cap18"/>
+	<itemref linear="yes" idref="cap19"/>
+	<itemref linear="yes" idref="cap20"/>
+	<itemref linear="yes" idref="cap21"/>
+	<itemref linear="yes" idref="cap22"/>	
+	<itemref linear="yes" idref="cap23"/>	
+	<itemref linear="yes" idref="cap24"/>
+	<itemref linear="yes" idref="cap25"/>
+	<itemref linear="yes" idref="cap26"/>	
+	<itemref linear="yes" idref="cap27"/>	
+	<itemref linear="yes" idref="cap28"/>
+	<itemref linear="yes" idref="cap29"/>
+	<itemref linear="yes" idref="cap30"/>
+	<itemref linear="yes" idref="cap31"/>
+	<itemref linear="yes" idref="cap32"/>	
+	<itemref linear="yes" idref="cap33"/>	
+	<itemref linear="yes" idref="cap34"/>
+	<itemref linear="yes" idref="cap35"/>
+	<itemref linear="yes" idref="cap36"/>	
+	<itemref linear="yes" idref="cap37"/>	
+	<itemref linear="yes" idref="cap38"/>
+	<itemref linear="yes" idref="cap39"/>
+	<itemref linear="yes" idref="cap40"/>
+	<itemref linear="yes" idref="cap41"/>
+	<itemref linear="yes" idref="cap42"/>	
+	<itemref linear="yes" idref="cap43"/>	
+	<itemref linear="yes" idref="cap44"/>
+	<itemref linear="yes" idref="cap45"/>
+	<itemref linear="yes" idref="cap46"/>	
+	<itemref linear="yes" idref="cap47"/>	
+	<itemref linear="yes" idref="cap48"/>
+	<itemref linear="yes" idref="cap49"/>
+	<itemref linear="yes" idref="cap50"/>
+	<itemref linear="yes" idref="cap51"/>
+	<itemref linear="yes" idref="cap52"/>	
+	<itemref linear="yes" idref="cap53"/>	
+	<itemref linear="yes" idref="cap54"/>
+	<itemref linear="yes" idref="cap55"/>
+	<itemref linear="yes" idref="cap56"/>	
+	<itemref linear="yes" idref="cap57"/>	
+	<itemref linear="yes" idref="cap58"/>
+	<itemref linear="yes" idref="cap59"/>
+	<itemref linear="yes" idref="cap60"/>
+	<itemref linear="yes" idref="cap61"/>
+	<itemref linear="yes" idref="cap62"/>	
+	<itemref linear="yes" idref="cap63"/>	
+	<itemref linear="yes" idref="cap64"/>
+	<itemref linear="yes" idref="cap65"/>
+	<itemref linear="yes" idref="cap66"/>	
+	<itemref linear="yes" idref="cap67"/>	
+	<itemref linear="yes" idref="cap68"/>
+	<itemref linear="yes" idref="cap69"/>
+	<itemref linear="yes" idref="cap70"/>
+	<itemref linear="yes" idref="cap71"/>
+	<itemref linear="yes" idref="cap72"/>	
+	<itemref linear="yes" idref="cap73"/>	
+	<itemref linear="yes" idref="cap74"/>
+	<itemref linear="yes" idref="cap75"/>
+	<itemref linear="yes" idref="cap76"/>	
+	<itemref linear="yes" idref="cap77"/>	
+	<itemref linear="yes" idref="cap78"/>
+	<itemref linear="yes" idref="cap79"/>	
+</spine>
+
+<guide>
+	<reference type="cover" title="Poesía para niños" href="cover.xml"/>
+	<reference type="other.reader-start-page" title="Libro al viento" href="portada.xml"/>
+	<reference type="title-page" title="Poesía para niños, portada" href="portada2.xml"/>
+	<reference type="copyright-page" title="Créditos" href="texlegal.html"/>
+	<reference type="toc" title="Contenido" href="contenido.html"/>
+	<reference type="foreword" title="Introducción" href="presentacion.html"/>
+	<reference type="other.portadilla" title="Poesía para niños, portadilla" href="portadilla.xml"/>
+	<reference type="text" title="Cucú" href="cap01.html"/>
+	<reference type="other.cap02" title="Este niño hermoso" href="cap02.html"/>
+	<reference type="other.cap03" title="Señora Santa Ana" href="cap03.html"/>
+	<reference type="other.cap04" title="Huachi Torito" href="cap04.html"/>
+	<reference type="other.cap05" title="Arrullo" href="cap05.html"/>
+	<reference type="other.cap06" title="Un elefante se balanceaba" href="cap06.html"/>
+	<reference type="other.cap07" title="Naranja dulce" href="cap07.html"/>
+	<reference type="other.cap08" title="Cuenta" href="cap08.html"/>
+	<reference type="other.cap09" title="Arrullo" href="cap09.html"/>
+	<reference type="other.cap10" title="Los sentidos" href="cap10.html"/>
+	<reference type="other.cap11" title="La muñeca azul" href="cap11.html"/>
+	<reference type="other.cap12" title="Cinco lobitos" href="cap12.html"/>
+	<reference type="other.cap13" title="Canciones de cuna" href="cap13.html"/>
+	<reference type="other.cap14" title="Dijo el gato: ¡mau!" href="cap14.html"/>
+	<reference type="other.cap15" title="Cinco varitas" href="cap15.html"/>
+	<reference type="other.cap16" title="Oye, pichoncito amigo" href="cap16.html"/>
+	<reference type="other.cap17" title="A la víbora, víbora del amor" href="cap17.html"/>
+	<reference type="other.cap18" title="Pijaraña" href="cap18.html"/>
+	<reference type="other.cap19" title="Los ratones" href="cap19.html"/>
+	<reference type="other.cap20" title="Canción de cuna" href="cap20.html"/>
+	<reference type="other.cap21" title="Baile" href="cap21.html"/>
+	<reference type="other.cap22" title="Las mil mentiras" href="cap22.html"/>
+	<reference type="other.cap23" title="El lavadero de las hadas" href="cap23.html"/>
+	<reference type="other.cap24" title="A una nariz" href="cap24.html"/>
+	<reference type="other.cap25" title="Romance de la condesita" href="cap25.html"/>
+	<reference type="other.cap26" title="Al pasar la barca" href="cap26.html"/>
+	<reference type="other.cap27" title="La boda de los gatos" href="cap27.html"/>
+	<reference type="other.cap28" title="Las flores" href="cap28.html"/>
+	<reference type="other.cap29" title="Los gatos escrupulosos" href="cap29.html"/>
+	<reference type="other.cap30" title="El mono aplaudido" href="cap30.html"/>
+	<reference type="other.cap31" title="La perla de la mora" href="cap31.html"/>
+	<reference type="other.cap32" title="Carolina y olé" href="cap32.html"/>
+	<reference type="other.cap33" title="Doña Panchíbida" href="cap33.html"/>
+	<reference type="other.cap34" title="El pavo y la pava" href="cap34.html"/>
+	<reference type="other.cap35" title="En coche va una niña" href="cap35.html"/>
+	<reference type="other.cap36" title="Estaba la pájara pinta" href="cap36.html"/>
+	<reference type="other.cap37" title="Tengo tengo tengo" href="cap37.html"/>
+	<reference type="other.cap38" title="Bajó un ángel del cielo" href="cap38.html"/>
+	<reference type="other.cap39" title="Villancico" href="cap39.html"/>
+	<reference type="other.cap40" title="Rima" href="cap40.html"/>
+	<reference type="other.cap41" title="Coplas" href="cap41.html"/>
+	<reference type="other.cap42" title="Villancico" href="cap42.html"/>
+	<reference type="other.cap43" title="Cuando salí de la Habana" href="cap43.html"/>
+	<reference type="other.cap44" title="El burro" href="cap44.html"/>
+	<reference type="other.cap45" title="La gallina Josefina" href="cap45.html"/>
+	<reference type="other.cap46" title="Cuentos mínimos" href="cap46.html"/>
+	<reference type="other.cap47" title="Don Pepito el bandolero" href="cap47.html"/>
+	<reference type="other.cap48" title="El sol y el polvo" href="cap48.html"/>
+	<reference type="other.cap49" title="El niño y la mariposa" href="cap49.html"/>
+	<reference type="other.cap50" title="El cocherito" href="cap50.html"/>
+	<reference type="other.cap51" title="Arroz con leche" href="cap51.html"/>
+	<reference type="other.cap52" title="El puente está quebrado" href="cap52.html"/>
+	<reference type="other.cap53" title="Qué quieres lobito" href="cap53.html"/>
+	<reference type="other.cap54" title="Está la mariposa" href="cap54.html"/>
+	<reference type="other.cap55" title="El niño va caminando" href="cap55.html"/>
+	<reference type="other.cap56" title="Trabalenguas" href="cap56.html"/>
+	<reference type="other.cap57" title="Al ruiseñor" href="cap57.html"/>
+	<reference type="other.cap58" title="Cantigas" href="cap58.html"/>
+	<reference type="other.cap59" title="Barquero" href="cap59.html"/>
+	<reference type="other.cap60" title="El pajarito" href="cap60.html"/>
+	<reference type="other.cap61" title="Ronda de la luna" href="cap61.html"/>
+	<reference type="other.cap62" title="Trabalenguas" href="cap62.html"/>
+	<reference type="other.cap63" title="A la rueda rueda" href="cap63.html"/>
+	<reference type="other.cap64" title="Canciones de amor" href="cap64.html"/>
+	<reference type="other.cap65" title="La marisola" href="cap65.html"/>
+	<reference type="other.cap66" title="Agua cristalina" href="cap66.html"/>
+	<reference type="other.cap67" title="Los pollos de mi cazuela" href="cap67.html"/>
+	<reference type="other.cap68" title="Patito patito" href="cap68.html"/>
+	<reference type="other.cap69" title="Conjuro para convocar la lluvia" href="cap69.html"/>
+	<reference type="other.cap70" title="El burro enfermo" href="cap70.html"/>
+	<reference type="other.cap71" title="Sortilegio de sorteo" href="cap71.html"/>
+	<reference type="other.cap72" title="Coro de la mañana" href="cap72.html"/>
+	<reference type="other.cap73" title="El aguatero" href="cap73.html"/>
+	<reference type="other.cap74" title="A dormir" href="cap74.html"/>
+	<reference type="other.cap75" title="Retahíla" href="cap75.html"/>
+	<reference type="other.cap76" title="Adivinanzas" href="cap76.html"/>
+	<reference type="other.cap77" title="El patio de mi casa" href="cap77.html"/>
+	<reference type="other.cap78" title="Pin pon" href="cap78.html"/>
+	<reference type="other.cap79" title="Don tomate" href="cap79.html"/>
+</guide>
+</package>

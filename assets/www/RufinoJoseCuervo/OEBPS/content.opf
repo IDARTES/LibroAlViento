@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<dc:title>Rufino José Cuervo: una biografía léxica</dc:title>
+	<dc:creator opf:role="aut" opf:file-as="Idartes">Instituto Distrital de las Artes – Idartes</dc:creator>
+	<dc:publisher>Instituto Distrital de las Artes – Idartes</dc:publisher>
+	<dc:rights>Instituto Distrital de las Artes – Idartes ©2012</dc:rights>
+	<dc:identifier id="BookId">9789589993552</dc:identifier>
+	<dc:language>es</dc:language>
+	
+	<dc:subject>rufino josé cuervo, biografías, literatura colombiana, historia de colombia, libro al viento, instituto caro y cuervo, secretaría de cultura bogotá</dc:subject>
+      <dc:description>Como particular homenaje a la memoria de quien inició una de las obras filológicas, históricas, de autoridades, e incluso literarias, más monumentales en el estudio de nuestra lengua hablada y escrita, como es el Diccionario de construcción y régimen de la lengua castellana, hemos querido ofrecerle al lector de Libro al viento un acercamiento biográfico de don Rufino José Cuervo (1844-1911) siguiendo las pautas básicas de un léxico, con entradas que responden no sólo a un orden alfabético sino, y sobre todo, temático</dc:description>
+      <dc:date>2013-01-15</dc:date>
+	  <dc:contributor opf:role="aut" opf:file-as="Idartes">Instituto Distrital de las Artes – Idartes</dc:contributor>
+	  <dc:contributor opf:role="aui" opf:file-as="Paredes, Julio">Julio Paredes</dc:contributor>
+	  
+	<meta name="cover" content="cover-image"/>
+</metadata>
+
+<manifest>
+	<item id="cover" href="cover.xml" media-type="application/xhtml+xml"/>
+	<item id="cover-image" href="imgs/cover.png" media-type="image/png"/>
+	<item id="portada" href="portada.xml" media-type="application/xhtml+xml"/>
+	<item id="fportada" href="imgs/portada.png" media-type="image/png"/>
+	<item id="portada2" href="portada2.xml" media-type="application/xhtml+xml"/>
+	<item id="fportada2" href="imgs/portada2.png" media-type="image/png"/>
+	<item id="style" href="estilos.css" media-type="text/css"/>
+	<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>	
+	<item id="texlegal" href="texlegal.html" media-type="application/xhtml+xml"/>
+	
+	<item id="contenido" href="contenido.html" media-type="application/xhtml+xml"/>
+	<item id="portadilla" href="portadilla.xml" media-type="application/xhtml+xml"/>
+	<item id="fportadilla" href="imgs/portadilla.png" media-type="image/png"/>
+	<item id="presentacion" href="presentacion.html" media-type="application/xhtml+xml"/>
+	<item id="cap01" href="cap01.html" media-type="application/xhtml+xml"/>
+	<item id="cap02" href="cap02.html" media-type="application/xhtml+xml"/>
+	<item id="cap03" href="cap03.html" media-type="application/xhtml+xml"/>
+	<item id="cap04" href="cap04.html" media-type="application/xhtml+xml"/>
+	<item id="cap05" href="cap05.html" media-type="application/xhtml+xml"/>
+	<item id="cap06" href="cap06.html" media-type="application/xhtml+xml"/>
+	<item id="cap07" href="cap07.html" media-type="application/xhtml+xml"/>
+	<item id="cap08" href="cap08.html" media-type="application/xhtml+xml"/>
+	<item id="cap09" href="cap09.html" media-type="application/xhtml+xml"/>
+	<item id="cap10" href="cap10.html" media-type="application/xhtml+xml"/>
+	<item id="cap11" href="cap11.html" media-type="application/xhtml+xml"/>
+	<item id="cap12" href="cap12.html" media-type="application/xhtml+xml"/>
+	<item id="cap13" href="cap13.html" media-type="application/xhtml+xml"/>
+	<item id="cap14" href="cap14.html" media-type="application/xhtml+xml"/>
+	<item id="cap15" href="cap15.html" media-type="application/xhtml+xml"/>
+	<item id="cap16" href="cap16.html" media-type="application/xhtml+xml"/>
+	<item id="cap17" href="cap17.html" media-type="application/xhtml+xml"/>
+	<item id="cap18" href="cap18.html" media-type="application/xhtml+xml"/>
+	<item id="cap19" href="cap19.html" media-type="application/xhtml+xml"/>
+	<item id="cap20" href="cap20.html" media-type="application/xhtml+xml"/>
+	<item id="cap21" href="cap21.html" media-type="application/xhtml+xml"/>
+	<item id="cap22" href="cap22.html" media-type="application/xhtml+xml"/>
+	<item id="cap23" href="cap23.html" media-type="application/xhtml+xml"/>
+	
+	<item id="f01" href="imgs/f01.png" media-type="image/png"/>
+	<item id="f02" href="imgs/f02.png" media-type="image/png"/>
+	<item id="f03" href="imgs/f03.png" media-type="image/png"/>
+	<item id="f04" href="imgs/f04.png" media-type="image/png"/>
+	<item id="f05" href="imgs/f05.png" media-type="image/png"/>
+	<item id="f06" href="imgs/f06.png" media-type="image/png"/>
+	<item id="f07" href="imgs/f07.png" media-type="image/png"/>
+	<item id="f08" href="imgs/f08.png" media-type="image/png"/>
+	<item id="f09" href="imgs/f09.png" media-type="image/png"/>
+	<item id="f10" href="imgs/f10.png" media-type="image/png"/>
+	<item id="f11" href="imgs/f11.png" media-type="image/png"/>
+	<item id="f12" href="imgs/f12.png" media-type="image/png"/>
+	<item id="f13" href="imgs/f13.png" media-type="image/png"/>
+	<item id="f14" href="imgs/f14.png" media-type="image/png"/>
+	<item id="f15" href="imgs/f15.png" media-type="image/png"/>
+	<item id="f16" href="imgs/f16.png" media-type="image/png"/>
+	<item id="f17" href="imgs/f17.png" media-type="image/png"/>
+	<item id="f18" href="imgs/f18.png" media-type="image/png"/>
+	<item id="gA" href="imgs/gA.png" media-type="image/png"/>
+	<item id="gB" href="imgs/gB.png" media-type="image/png"/>
+	<item id="gC" href="imgs/gC.png" media-type="image/png"/>
+	<item id="gD" href="imgs/gD.png" media-type="image/png"/>
+	<item id="gE" href="imgs/gE.png" media-type="image/png"/>
+	<item id="gF" href="imgs/gF.png" media-type="image/png"/>
+	<item id="gG" href="imgs/gG.png" media-type="image/png"/>
+	<item id="gH" href="imgs/gH.png" media-type="image/png"/>
+	<item id="gI" href="imgs/gI.png" media-type="image/png"/>
+	<item id="gK" href="imgs/gK.png" media-type="image/png"/>
+	<item id="gL" href="imgs/gL.png" media-type="image/png"/>
+	<item id="gM" href="imgs/gM.png" media-type="image/png"/>
+	<item id="gN" href="imgs/gN.png" media-type="image/png"/>
+	<item id="gO" href="imgs/gO.png" media-type="image/png"/>
+	<item id="gP" href="imgs/gP.png" media-type="image/png"/>
+	<item id="gQ" href="imgs/gQ.png" media-type="image/png"/>
+	<item id="gR" href="imgs/gR.png" media-type="image/png"/>
+	<item id="gS" href="imgs/gS.png" media-type="image/png"/>
+	<item id="gT" href="imgs/gT.png" media-type="image/png"/>
+	<item id="gU" href="imgs/gU.png" media-type="image/png"/>
+	<item id="gV" href="imgs/gV.png" media-type="image/png"/>
+	<item id="gW" href="imgs/gW.png" media-type="image/png"/>
+	<item id="gZ" href="imgs/gZ.png" media-type="image/png"/>
+	<item id="thA" href="imgs/thA.png" media-type="image/png"/>
+	<item id="thB" href="imgs/thB.png" media-type="image/png"/>
+	<item id="thC" href="imgs/thC.png" media-type="image/png"/>
+	<item id="thD" href="imgs/thD.png" media-type="image/png"/>
+	<item id="thE" href="imgs/thE.png" media-type="image/png"/>
+	<item id="thF" href="imgs/thF.png" media-type="image/png"/>
+	<item id="thG" href="imgs/thG.png" media-type="image/png"/>
+	<item id="thH" href="imgs/thH.png" media-type="image/png"/>
+	<item id="thI" href="imgs/thI.png" media-type="image/png"/>
+	<item id="thK" href="imgs/thK.png" media-type="image/png"/>
+	<item id="thL" href="imgs/thL.png" media-type="image/png"/>
+	<item id="thM" href="imgs/thM.png" media-type="image/png"/>
+	<item id="thN" href="imgs/thN.png" media-type="image/png"/>
+	<item id="thO" href="imgs/thO.png" media-type="image/png"/>
+	<item id="thP" href="imgs/thP.png" media-type="image/png"/>
+	<item id="thQ" href="imgs/thQ.png" media-type="image/png"/>
+	<item id="thR" href="imgs/thR.png" media-type="image/png"/>
+	<item id="thS" href="imgs/thS.png" media-type="image/png"/>
+	<item id="thT" href="imgs/thT.png" media-type="image/png"/>
+	<item id="thU" href="imgs/thU.png" media-type="image/png"/>
+	<item id="thV" href="imgs/thV.png" media-type="image/png"/>
+	<item id="thW" href="imgs/thW.png" media-type="image/png"/>
+	<item id="thZ" href="imgs/thZ.png" media-type="image/png"/>
+</manifest>
+
+<spine toc="ncx">
+	<itemref linear="yes" idref="cover" />
+	<itemref linear="yes" idref="portada"/>
+	<itemref linear="yes" idref="portada2"/>
+	<itemref linear="yes" idref="texlegal"/>
+	<itemref linear="yes" idref="contenido"/>
+	<itemref linear="yes" idref="portadilla"/>
+	<itemref linear="yes" idref="presentacion"/>
+	<itemref linear="yes" idref="cap01"/>
+	<itemref linear="yes" idref="cap02"/>	
+	<itemref linear="yes" idref="cap03"/>	
+	<itemref linear="yes" idref="cap04"/>
+	<itemref linear="yes" idref="cap05"/>
+	<itemref linear="yes" idref="cap06"/>	
+	<itemref linear="yes" idref="cap07"/>	
+	<itemref linear="yes" idref="cap08"/>
+	<itemref linear="yes" idref="cap09"/>
+	<itemref linear="yes" idref="cap10"/>
+	<itemref linear="yes" idref="cap11"/>
+	<itemref linear="yes" idref="cap12"/>	
+	<itemref linear="yes" idref="cap13"/>	
+	<itemref linear="yes" idref="cap14"/>
+	<itemref linear="yes" idref="cap15"/>
+	<itemref linear="yes" idref="cap16"/>	
+	<itemref linear="yes" idref="cap17"/>	
+	<itemref linear="yes" idref="cap18"/>
+	<itemref linear="yes" idref="cap19"/>
+	<itemref linear="yes" idref="cap20"/>
+	<itemref linear="yes" idref="cap21"/>
+	<itemref linear="yes" idref="cap22"/>	
+	<itemref linear="yes" idref="cap23"/>
+</spine>
+
+<guide>
+	<reference type="cover" title="Rufino José Cuervo: una biografía léxica" href="cover.xml"/>
+	<reference type="other.reader-start-page" title="Libro al viento" href="portada.xml"/>
+	<reference type="title-page" title="Rufino José Cuervo: una biografía léxica, portada" href="portada2.xml"/>
+	<reference type="copyright-page" title="Créditos" href="texlegal.html"/>
+	<reference type="toc" title="Contenido" href="contenido.html"/>
+	<reference type="other.portadilla" title="Rufino José Cuervo: una biografía léxica, portadilla" href="portadilla.xml"/>
+	<reference type="foreword" title="Introducción" href="presentacion.html"/>
+	<reference type="text" title="A" href="cap01.html"/>
+	<reference type="other.cap02" title="B" href="cap02.html"/>
+	<reference type="other.cap03" title="C" href="cap03.html"/>
+	<reference type="other.cap04" title="D" href="cap04.html"/>
+	<reference type="other.cap05" title="E" href="cap05.html"/>
+	<reference type="other.cap06" title="F" href="cap06.html"/>
+	<reference type="other.cap07" title="G" href="cap07.html"/>
+	<reference type="other.cap08" title="H" href="cap08.html"/>
+	<reference type="other.cap09" title="I" href="cap09.html"/>
+	<reference type="other.cap10" title="K" href="cap10.html"/>
+	<reference type="other.cap11" title="L" href="cap11.html"/>
+	<reference type="other.cap12" title="M" href="cap12.html"/>
+	<reference type="other.cap13" title="N" href="cap13.html"/>
+	<reference type="other.cap14" title="O" href="cap14.html"/>
+	<reference type="other.cap15" title="P" href="cap15.html"/>
+	<reference type="other.cap16" title="Q" href="cap16.html"/>
+	<reference type="other.cap17" title="R" href="cap17.html"/>
+	<reference type="other.cap18" title="S" href="cap18.html"/>
+	<reference type="other.cap19" title="T" href="cap19.html"/>
+	<reference type="other.cap20" title="U" href="cap20.html"/>
+	<reference type="other.cap21" title="V" href="cap21.html"/>
+	<reference type="other.cap22" title="W" href="cap22.html"/>
+	<reference type="other.cap23" title="Z" href="cap23.html"/>
+</guide>
+</package>
