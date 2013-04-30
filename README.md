@@ -16,9 +16,16 @@ a través del WebView Cordova
 
 Como contribuir
 ---------------
-Clone este repositorio 
+* Clone este repositorio 
 > git clone https://github.com/IDARTES/LibroAlViento
-Realice las contribuciones en el directorio *assets/www*
+* Realice las contribuciones en el directorio *assets/www*
+* Para hacer pruebas directamente en su dispositivo móvil no se requiere haber firmado el paquete
+> * Abra el proyecto en eclipse
+> * En el explorador de paquetes click derecho sobre el nombre del proyecto
+> * Seleccione *Android Tools*
+> * Seleccione Export Unsigned Application Package
+> * Especifique el lugar donde almacenará el archivo .apk
+> * Descargue el paquete en el dispositivo, instálelo y realice las pruebas 
 
 PARA HACER
 ----------
